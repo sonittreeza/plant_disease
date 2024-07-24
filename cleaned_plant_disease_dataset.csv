@@ -1,0 +1,1301 @@
+id,disease,plants,names,disease_description,treatment_suggestions,symptoms,region,severity,control_measures
+1,Leaf Spot,Corn,Zea,A parasitic infection,Rotate crops,Reddish pustules,America,Medium,Maintain field hygiene
+2,Late Blight,Tomato,Triticum,A viral infection,Apply neem oil,Reddish pustules,Africa,High,Avoid overhead irrigation
+3,Anthracnose,Soybean,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,Asia,Low,Crop rotation
+4,Anthracnose,Potato,Triticum,A fungal disease,Use resistant varieties,Yellowing leaves,Australia,Medium,Avoid overhead irrigation
+5,Anthracnose,Corn,Lycopersicon,A parasitic infection,Apply neem oil,White powder on leaves,Asia,Low,Crop rotation
+6,Powdery Mildew,Wheat,Zea,Caused by nematodes,Use fungicides,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+7,Anthracnose,Soybean,Zea,A parasitic infection,Use fungicides,Leaf curling,America,Low,Maintain field hygiene
+8,Rust,Wheat,Triticum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Africa,High,Use certified seeds
+9,Leaf Spot,Potato,Glycine,A fungal disease,Use fungicides,Black spots on leaves,Europe,Medium,Avoid overhead irrigation
+10,Late Blight,Tomato,Glycine,A fungal disease,Use resistant varieties,White powder on leaves,Asia,High,Maintain field hygiene
+11,Late Blight,Soybean,Triticum,A viral infection,Maintain good hygiene,Black spots on leaves,Europe,Medium,Maintain field hygiene
+12,Leaf Spot,Potato,Glycine,A fungal disease,Maintain good hygiene,White powder on leaves,Europe,Low,Avoid overhead irrigation
+13,Rust,Potato,Lycopersicon,A fungal disease,Maintain good hygiene,Black spots on leaves,Africa,Low,Use certified seeds
+14,Powdery Mildew,Tomato,Solanum,A fungal disease,Apply neem oil,Black spots on leaves,Australia,High,Crop rotation
+15,Late Blight,Tomato,Zea,A parasitic infection,Use fungicides,White powder on leaves,Asia,Medium,Maintain field hygiene
+16,Powdery Mildew,Potato,Zea,A parasitic infection,Apply neem oil,Yellowing leaves,America,Low,Maintain field hygiene
+17,Powdery Mildew,Tomato,Zea,A fungal disease,Rotate crops,White powder on leaves,America,High,Maintain field hygiene
+18,Late Blight,Soybean,Solanum,A bacterial infection,Maintain good hygiene,Yellowing leaves,America,High,Maintain field hygiene
+19,Powdery Mildew,Tomato,Lycopersicon,A fungal disease,Rotate crops,Reddish pustules,Europe,Medium,Avoid overhead irrigation
+20,Leaf Spot,Soybean,Triticum,A fungal disease,Apply neem oil,Reddish pustules,Australia,Medium,Crop rotation
+21,Anthracnose,Potato,Glycine,A viral infection,Use fungicides,Reddish pustules,Australia,High,Avoid overhead irrigation
+22,Late Blight,Corn,Glycine,A fungal disease,Maintain good hygiene,Reddish pustules,Africa,Low,Use certified seeds
+23,Anthracnose,Potato,Solanum,A fungal disease,Rotate crops,Leaf curling,Europe,Medium,Crop rotation
+24,Late Blight,Potato,Zea,A viral infection,Rotate crops,Leaf curling,Australia,Low,Use mulch
+25,Rust,Potato,Glycine,A fungal disease,Maintain good hygiene,White powder on leaves,America,High,Use certified seeds
+26,Anthracnose,Soybean,Triticum,A fungal disease,Use resistant varieties,Black spots on leaves,America,Low,Avoid overhead irrigation
+27,Late Blight,Corn,Glycine,Caused by nematodes,Maintain good hygiene,Leaf curling,America,High,Maintain field hygiene
+28,Powdery Mildew,Tomato,Zea,A viral infection,Rotate crops,Leaf curling,Australia,Low,Avoid overhead irrigation
+29,Anthracnose,Wheat,Triticum,A viral infection,Apply neem oil,Black spots on leaves,America,Medium,Avoid overhead irrigation
+30,Anthracnose,Soybean,Zea,Caused by nematodes,Apply neem oil,Leaf curling,Australia,High,Avoid overhead irrigation
+31,Anthracnose,Potato,Zea,A viral infection,Rotate crops,Black spots on leaves,Australia,Medium,Use certified seeds
+32,Late Blight,Potato,Solanum,A bacterial infection,Apply neem oil,Leaf curling,Asia,High,Use mulch
+33,Powdery Mildew,Wheat,Zea,A parasitic infection,Apply neem oil,Reddish pustules,America,High,Maintain field hygiene
+34,Powdery Mildew,Tomato,Triticum,A parasitic infection,Use resistant varieties,Black spots on leaves,Australia,Low,Maintain field hygiene
+35,Powdery Mildew,Corn,Solanum,A viral infection,Rotate crops,Reddish pustules,Australia,Low,Avoid overhead irrigation
+36,Late Blight,Potato,Solanum,A parasitic infection,Use fungicides,White powder on leaves,America,Medium,Avoid overhead irrigation
+37,Rust,Wheat,Triticum,A fungal disease,Use resistant varieties,Black spots on leaves,America,High,Avoid overhead irrigation
+38,Leaf Spot,Potato,Solanum,A fungal disease,Rotate crops,Black spots on leaves,America,High,Avoid overhead irrigation
+39,Anthracnose,Wheat,Triticum,A bacterial infection,Apply neem oil,Yellowing leaves,Africa,Medium,Use certified seeds
+40,Anthracnose,Tomato,Glycine,Caused by nematodes,Apply neem oil,Leaf curling,America,Low,Use certified seeds
+41,Rust,Wheat,Solanum,A parasitic infection,Use fungicides,Black spots on leaves,Asia,Medium,Crop rotation
+42,Leaf Spot,Potato,Glycine,A bacterial infection,Apply neem oil,Yellowing leaves,Europe,High,Crop rotation
+43,Rust,Soybean,Solanum,A parasitic infection,Use fungicides,Yellowing leaves,Australia,High,Use certified seeds
+44,Late Blight,Tomato,Zea,A fungal disease,Apply neem oil,Yellowing leaves,America,High,Avoid overhead irrigation
+45,Late Blight,Wheat,Triticum,A bacterial infection,Maintain good hygiene,Reddish pustules,Africa,Medium,Maintain field hygiene
+46,Leaf Spot,Soybean,Zea,A bacterial infection,Maintain good hygiene,Yellowing leaves,Australia,High,Use certified seeds
+47,Late Blight,Corn,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,Medium,Use certified seeds
+48,Leaf Spot,Corn,Triticum,A fungal disease,Use fungicides,White powder on leaves,Asia,Medium,Crop rotation
+49,Powdery Mildew,Wheat,Triticum,A bacterial infection,Use fungicides,Leaf curling,Africa,High,Use mulch
+50,Leaf Spot,Tomato,Glycine,A fungal disease,Use resistant varieties,Reddish pustules,Australia,Low,Maintain field hygiene
+51,Powdery Mildew,Potato,Triticum,A fungal disease,Maintain good hygiene,Yellowing leaves,Asia,Medium,Maintain field hygiene
+52,Rust,Corn,Triticum,A viral infection,Use resistant varieties,Yellowing leaves,Africa,High,Use mulch
+53,Rust,Soybean,Solanum,A viral infection,Use fungicides,Reddish pustules,Africa,Medium,Crop rotation
+54,Late Blight,Soybean,Lycopersicon,Caused by nematodes,Apply neem oil,Reddish pustules,America,High,Maintain field hygiene
+55,Powdery Mildew,Soybean,Zea,A fungal disease,Maintain good hygiene,Black spots on leaves,Africa,Low,Crop rotation
+56,Powdery Mildew,Corn,Lycopersicon,A viral infection,Rotate crops,Black spots on leaves,Asia,Low,Crop rotation
+57,Powdery Mildew,Wheat,Triticum,A parasitic infection,Apply neem oil,White powder on leaves,Africa,Medium,Avoid overhead irrigation
+58,Powdery Mildew,Corn,Lycopersicon,A fungal disease,Use fungicides,Black spots on leaves,Africa,High,Use mulch
+59,Anthracnose,Tomato,Solanum,A bacterial infection,Maintain good hygiene,Black spots on leaves,Africa,Medium,Use mulch
+60,Anthracnose,Tomato,Glycine,A fungal disease,Use fungicides,Reddish pustules,America,Medium,Avoid overhead irrigation
+61,Rust,Wheat,Glycine,A bacterial infection,Use fungicides,Reddish pustules,Australia,Low,Crop rotation
+62,Anthracnose,Soybean,Lycopersicon,Caused by nematodes,Rotate crops,Leaf curling,Africa,Low,Crop rotation
+63,Late Blight,Corn,Solanum,A viral infection,Use fungicides,Reddish pustules,Europe,Medium,Maintain field hygiene
+64,Anthracnose,Wheat,Glycine,A parasitic infection,Use fungicides,Reddish pustules,Australia,Medium,Use mulch
+65,Leaf Spot,Potato,Lycopersicon,A viral infection,Use fungicides,Black spots on leaves,Europe,High,Maintain field hygiene
+66,Powdery Mildew,Tomato,Lycopersicon,A bacterial infection,Rotate crops,Black spots on leaves,Africa,High,Maintain field hygiene
+67,Rust,Potato,Zea,Caused by nematodes,Use resistant varieties,Reddish pustules,America,Low,Use mulch
+68,Leaf Spot,Potato,Solanum,A bacterial infection,Use fungicides,Reddish pustules,Asia,High,Maintain field hygiene
+69,Anthracnose,Corn,Zea,Caused by nematodes,Use fungicides,Leaf curling,Australia,Medium,Use mulch
+70,Leaf Spot,Wheat,Lycopersicon,Caused by nematodes,Apply neem oil,Yellowing leaves,Africa,High,Crop rotation
+71,Leaf Spot,Potato,Zea,A parasitic infection,Maintain good hygiene,Reddish pustules,Europe,Low,Crop rotation
+72,Leaf Spot,Potato,Zea,A parasitic infection,Maintain good hygiene,White powder on leaves,Africa,High,Use certified seeds
+73,Anthracnose,Soybean,Lycopersicon,A viral infection,Maintain good hygiene,Leaf curling,Asia,High,Maintain field hygiene
+74,Leaf Spot,Soybean,Glycine,A parasitic infection,Maintain good hygiene,Yellowing leaves,Africa,Medium,Maintain field hygiene
+75,Leaf Spot,Potato,Triticum,A bacterial infection,Maintain good hygiene,Black spots on leaves,Europe,High,Use mulch
+76,Leaf Spot,Corn,Glycine,A bacterial infection,Apply neem oil,Reddish pustules,Europe,High,Maintain field hygiene
+77,Late Blight,Potato,Solanum,Caused by nematodes,Rotate crops,White powder on leaves,Africa,Medium,Use certified seeds
+78,Leaf Spot,Tomato,Glycine,A viral infection,Maintain good hygiene,Black spots on leaves,Africa,High,Avoid overhead irrigation
+79,Anthracnose,Wheat,Lycopersicon,A viral infection,Apply neem oil,Reddish pustules,Australia,Low,Avoid overhead irrigation
+80,Rust,Corn,Zea,A viral infection,Apply neem oil,Yellowing leaves,America,High,Crop rotation
+81,Late Blight,Soybean,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,Asia,Low,Use certified seeds
+82,Powdery Mildew,Wheat,Solanum,A parasitic infection,Maintain good hygiene,Reddish pustules,America,Medium,Crop rotation
+83,Powdery Mildew,Tomato,Solanum,A fungal disease,Apply neem oil,White powder on leaves,Africa,Low,Use mulch
+84,Anthracnose,Corn,Zea,A bacterial infection,Apply neem oil,Leaf curling,America,Low,Avoid overhead irrigation
+85,Late Blight,Corn,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Asia,Low,Use mulch
+86,Late Blight,Corn,Zea,A bacterial infection,Apply neem oil,Black spots on leaves,America,High,Use certified seeds
+87,Powdery Mildew,Soybean,Triticum,A parasitic infection,Use resistant varieties,Reddish pustules,Asia,Medium,Crop rotation
+88,Rust,Wheat,Solanum,A parasitic infection,Apply neem oil,White powder on leaves,Europe,High,Crop rotation
+89,Leaf Spot,Tomato,Lycopersicon,Caused by nematodes,Rotate crops,Leaf curling,Europe,High,Maintain field hygiene
+90,Rust,Potato,Zea,Caused by nematodes,Rotate crops,Reddish pustules,Africa,High,Use certified seeds
+91,Late Blight,Potato,Solanum,A fungal disease,Maintain good hygiene,Black spots on leaves,America,Low,Use certified seeds
+92,Anthracnose,Potato,Zea,A viral infection,Maintain good hygiene,Reddish pustules,Europe,Medium,Crop rotation
+93,Rust,Wheat,Zea,A fungal disease,Maintain good hygiene,Yellowing leaves,America,High,Use mulch
+94,Rust,Corn,Glycine,Caused by nematodes,Apply neem oil,Leaf curling,Europe,Medium,Maintain field hygiene
+95,Late Blight,Tomato,Zea,A fungal disease,Maintain good hygiene,Reddish pustules,Africa,Medium,Crop rotation
+96,Powdery Mildew,Soybean,Lycopersicon,A bacterial infection,Maintain good hygiene,White powder on leaves,Europe,Low,Avoid overhead irrigation
+97,Late Blight,Corn,Triticum,A parasitic infection,Rotate crops,Black spots on leaves,Europe,High,Maintain field hygiene
+98,Rust,Soybean,Triticum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Asia,Medium,Maintain field hygiene
+99,Rust,Corn,Zea,A fungal disease,Use fungicides,White powder on leaves,Africa,High,Crop rotation
+100,Anthracnose,Potato,Zea,A viral infection,Apply neem oil,Black spots on leaves,Australia,High,Avoid overhead irrigation
+101,Rust,Corn,Zea,Caused by nematodes,Apply neem oil,Yellowing leaves,America,High,Maintain field hygiene
+102,Anthracnose,Potato,Triticum,A parasitic infection,Apply neem oil,Black spots on leaves,Australia,Medium,Use mulch
+103,Rust,Potato,Zea,A fungal disease,Use fungicides,Leaf curling,Australia,Low,Crop rotation
+104,Powdery Mildew,Tomato,Glycine,Caused by nematodes,Use resistant varieties,Reddish pustules,Asia,Medium,Use mulch
+105,Rust,Tomato,Zea,A parasitic infection,Use resistant varieties,Black spots on leaves,Australia,Low,Use mulch
+106,Anthracnose,Soybean,Lycopersicon,A fungal disease,Rotate crops,Yellowing leaves,Europe,Low,Crop rotation
+107,Anthracnose,Soybean,Lycopersicon,Caused by nematodes,Use resistant varieties,Leaf curling,Asia,Medium,Use mulch
+108,Anthracnose,Wheat,Triticum,A viral infection,Use fungicides,Reddish pustules,Asia,Medium,Use certified seeds
+109,Rust,Wheat,Lycopersicon,A fungal disease,Rotate crops,Leaf curling,Asia,High,Avoid overhead irrigation
+110,Anthracnose,Soybean,Triticum,A fungal disease,Apply neem oil,White powder on leaves,Africa,Low,Avoid overhead irrigation
+111,Leaf Spot,Tomato,Lycopersicon,A fungal disease,Maintain good hygiene,White powder on leaves,Australia,Medium,Use mulch
+112,Powdery Mildew,Potato,Triticum,A parasitic infection,Apply neem oil,Reddish pustules,Asia,Low,Avoid overhead irrigation
+113,Rust,Wheat,Solanum,A viral infection,Maintain good hygiene,White powder on leaves,Europe,Low,Maintain field hygiene
+114,Anthracnose,Tomato,Lycopersicon,A viral infection,Maintain good hygiene,Reddish pustules,Europe,Medium,Maintain field hygiene
+115,Powdery Mildew,Potato,Zea,A fungal disease,Apply neem oil,White powder on leaves,Asia,Low,Avoid overhead irrigation
+116,Rust,Wheat,Triticum,A fungal disease,Use fungicides,White powder on leaves,Africa,Medium,Use certified seeds
+117,Powdery Mildew,Tomato,Triticum,A viral infection,Apply neem oil,White powder on leaves,America,Medium,Use certified seeds
+118,Leaf Spot,Soybean,Glycine,Caused by nematodes,Use fungicides,Reddish pustules,Asia,Medium,Crop rotation
+119,Rust,Tomato,Solanum,A fungal disease,Use resistant varieties,Black spots on leaves,America,High,Crop rotation
+120,Anthracnose,Wheat,Solanum,A viral infection,Use resistant varieties,Black spots on leaves,Africa,High,Maintain field hygiene
+121,Late Blight,Potato,Zea,A parasitic infection,Apply neem oil,White powder on leaves,Asia,High,Avoid overhead irrigation
+122,Anthracnose,Wheat,Triticum,A viral infection,Use fungicides,Black spots on leaves,Asia,Low,Use mulch
+123,Rust,Corn,Solanum,Caused by nematodes,Apply neem oil,Leaf curling,Europe,High,Crop rotation
+124,Anthracnose,Soybean,Solanum,A fungal disease,Use fungicides,White powder on leaves,Asia,Low,Avoid overhead irrigation
+125,Late Blight,Corn,Glycine,A viral infection,Use fungicides,Leaf curling,Asia,Medium,Use certified seeds
+126,Late Blight,Wheat,Zea,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,Low,Avoid overhead irrigation
+127,Late Blight,Wheat,Zea,A fungal disease,Use fungicides,Reddish pustules,Europe,Medium,Use certified seeds
+128,Anthracnose,Tomato,Solanum,A fungal disease,Use fungicides,Yellowing leaves,America,Medium,Crop rotation
+129,Rust,Tomato,Lycopersicon,A bacterial infection,Rotate crops,Reddish pustules,Europe,Medium,Maintain field hygiene
+130,Anthracnose,Corn,Glycine,A fungal disease,Rotate crops,Reddish pustules,Europe,Medium,Use certified seeds
+131,Late Blight,Tomato,Lycopersicon,A parasitic infection,Maintain good hygiene,Black spots on leaves,Asia,Medium,Avoid overhead irrigation
+132,Leaf Spot,Tomato,Glycine,A parasitic infection,Use fungicides,Reddish pustules,Asia,Medium,Crop rotation
+133,Late Blight,Corn,Lycopersicon,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Australia,High,Use mulch
+134,Late Blight,Tomato,Zea,Caused by nematodes,Use resistant varieties,Yellowing leaves,Australia,Low,Crop rotation
+135,Rust,Corn,Triticum,A viral infection,Use fungicides,Black spots on leaves,Africa,High,Crop rotation
+136,Anthracnose,Potato,Zea,A viral infection,Use resistant varieties,Leaf curling,Australia,High,Maintain field hygiene
+137,Rust,Corn,Solanum,A parasitic infection,Rotate crops,Black spots on leaves,Asia,Low,Maintain field hygiene
+138,Anthracnose,Tomato,Lycopersicon,A fungal disease,Use resistant varieties,Leaf curling,Africa,High,Use certified seeds
+139,Late Blight,Soybean,Solanum,A bacterial infection,Use resistant varieties,Reddish pustules,America,High,Use certified seeds
+140,Late Blight,Soybean,Zea,A parasitic infection,Apply neem oil,Reddish pustules,Australia,Medium,Use certified seeds
+141,Late Blight,Corn,Lycopersicon,Caused by nematodes,Use fungicides,Leaf curling,Australia,Medium,Use mulch
+142,Anthracnose,Soybean,Glycine,Caused by nematodes,Use fungicides,Reddish pustules,Asia,High,Maintain field hygiene
+143,Late Blight,Soybean,Triticum,Caused by nematodes,Maintain good hygiene,White powder on leaves,Asia,Low,Avoid overhead irrigation
+144,Rust,Tomato,Zea,A bacterial infection,Use resistant varieties,Yellowing leaves,Europe,Medium,Maintain field hygiene
+145,Rust,Potato,Zea,Caused by nematodes,Rotate crops,Black spots on leaves,Europe,High,Avoid overhead irrigation
+146,Late Blight,Potato,Triticum,Caused by nematodes,Rotate crops,Yellowing leaves,Australia,High,Use mulch
+147,Leaf Spot,Tomato,Zea,A viral infection,Use resistant varieties,Reddish pustules,Australia,High,Use mulch
+148,Anthracnose,Potato,Lycopersicon,A fungal disease,Apply neem oil,Yellowing leaves,Africa,Medium,Avoid overhead irrigation
+149,Leaf Spot,Corn,Lycopersicon,A fungal disease,Use resistant varieties,White powder on leaves,Australia,High,Avoid overhead irrigation
+150,Late Blight,Potato,Zea,A bacterial infection,Use resistant varieties,White powder on leaves,Asia,High,Use certified seeds
+151,Leaf Spot,Soybean,Lycopersicon,Caused by nematodes,Rotate crops,Black spots on leaves,Asia,High,Use mulch
+152,Anthracnose,Tomato,Zea,A viral infection,Use resistant varieties,Reddish pustules,Africa,Low,Maintain field hygiene
+153,Anthracnose,Wheat,Zea,A fungal disease,Maintain good hygiene,Reddish pustules,America,Medium,Avoid overhead irrigation
+154,Leaf Spot,Soybean,Glycine,A bacterial infection,Rotate crops,White powder on leaves,America,High,Use certified seeds
+155,Powdery Mildew,Soybean,Triticum,A viral infection,Rotate crops,Leaf curling,Asia,Low,Use certified seeds
+156,Anthracnose,Corn,Lycopersicon,Caused by nematodes,Apply neem oil,Yellowing leaves,Europe,High,Use mulch
+157,Late Blight,Wheat,Triticum,A bacterial infection,Use resistant varieties,White powder on leaves,America,High,Use certified seeds
+158,Late Blight,Corn,Glycine,A viral infection,Rotate crops,Yellowing leaves,Europe,Low,Use certified seeds
+159,Late Blight,Tomato,Solanum,A fungal disease,Use resistant varieties,Black spots on leaves,Asia,High,Crop rotation
+160,Powdery Mildew,Wheat,Zea,A parasitic infection,Use fungicides,White powder on leaves,Asia,High,Avoid overhead irrigation
+161,Late Blight,Tomato,Lycopersicon,A fungal disease,Apply neem oil,Black spots on leaves,Europe,Low,Crop rotation
+162,Leaf Spot,Potato,Solanum,A parasitic infection,Rotate crops,Leaf curling,Asia,High,Maintain field hygiene
+163,Powdery Mildew,Soybean,Solanum,A bacterial infection,Maintain good hygiene,Leaf curling,Australia,Medium,Crop rotation
+164,Anthracnose,Potato,Lycopersicon,A viral infection,Apply neem oil,Reddish pustules,Asia,Low,Maintain field hygiene
+165,Powdery Mildew,Tomato,Solanum,A viral infection,Use resistant varieties,Black spots on leaves,Australia,High,Maintain field hygiene
+166,Late Blight,Corn,Zea,A viral infection,Apply neem oil,White powder on leaves,Africa,Medium,Use mulch
+167,Late Blight,Soybean,Zea,Caused by nematodes,Use fungicides,Yellowing leaves,Europe,High,Crop rotation
+168,Leaf Spot,Soybean,Zea,A fungal disease,Apply neem oil,Yellowing leaves,America,Low,Use mulch
+169,Anthracnose,Wheat,Glycine,A parasitic infection,Rotate crops,Black spots on leaves,Africa,High,Use certified seeds
+170,Anthracnose,Potato,Solanum,Caused by nematodes,Use fungicides,White powder on leaves,Europe,Medium,Use mulch
+171,Powdery Mildew,Tomato,Zea,A bacterial infection,Use resistant varieties,Reddish pustules,America,High,Crop rotation
+172,Late Blight,Tomato,Glycine,A bacterial infection,Use fungicides,Leaf curling,Australia,High,Use mulch
+173,Late Blight,Tomato,Zea,Caused by nematodes,Maintain good hygiene,Leaf curling,America,High,Avoid overhead irrigation
+174,Powdery Mildew,Tomato,Zea,A parasitic infection,Apply neem oil,Reddish pustules,Australia,Medium,Avoid overhead irrigation
+175,Rust,Corn,Lycopersicon,A bacterial infection,Use resistant varieties,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+176,Late Blight,Tomato,Zea,A fungal disease,Rotate crops,Yellowing leaves,Asia,High,Use certified seeds
+177,Anthracnose,Corn,Zea,A bacterial infection,Maintain good hygiene,Yellowing leaves,Australia,High,Crop rotation
+178,Powdery Mildew,Corn,Zea,A parasitic infection,Apply neem oil,Yellowing leaves,Africa,Low,Crop rotation
+179,Powdery Mildew,Wheat,Zea,A fungal disease,Rotate crops,White powder on leaves,America,Low,Avoid overhead irrigation
+180,Leaf Spot,Wheat,Zea,Caused by nematodes,Maintain good hygiene,White powder on leaves,Australia,Medium,Avoid overhead irrigation
+181,Late Blight,Potato,Triticum,A parasitic infection,Apply neem oil,Black spots on leaves,Africa,Low,Use mulch
+182,Late Blight,Tomato,Triticum,A fungal disease,Rotate crops,Black spots on leaves,America,High,Use certified seeds
+183,Anthracnose,Corn,Glycine,A fungal disease,Use resistant varieties,Reddish pustules,Africa,Low,Use certified seeds
+184,Rust,Wheat,Glycine,A fungal disease,Apply neem oil,Reddish pustules,Australia,Medium,Use mulch
+185,Anthracnose,Tomato,Glycine,A parasitic infection,Rotate crops,Yellowing leaves,America,Medium,Avoid overhead irrigation
+186,Rust,Wheat,Triticum,A viral infection,Maintain good hygiene,White powder on leaves,America,High,Crop rotation
+187,Leaf Spot,Wheat,Glycine,A bacterial infection,Use resistant varieties,Black spots on leaves,Africa,Medium,Use mulch
+188,Anthracnose,Potato,Lycopersicon,A viral infection,Maintain good hygiene,Yellowing leaves,Asia,Low,Use certified seeds
+189,Anthracnose,Corn,Solanum,A bacterial infection,Use resistant varieties,Black spots on leaves,America,Medium,Avoid overhead irrigation
+190,Late Blight,Corn,Lycopersicon,A parasitic infection,Rotate crops,White powder on leaves,Africa,High,Maintain field hygiene
+191,Anthracnose,Wheat,Solanum,A bacterial infection,Apply neem oil,White powder on leaves,Asia,Low,Use mulch
+192,Late Blight,Tomato,Solanum,A parasitic infection,Rotate crops,Reddish pustules,Europe,Medium,Avoid overhead irrigation
+193,Leaf Spot,Corn,Zea,A fungal disease,Maintain good hygiene,White powder on leaves,Africa,Low,Crop rotation
+194,Rust,Potato,Glycine,Caused by nematodes,Use fungicides,White powder on leaves,America,Low,Maintain field hygiene
+195,Anthracnose,Corn,Solanum,A viral infection,Rotate crops,Yellowing leaves,Europe,Low,Maintain field hygiene
+196,Leaf Spot,Potato,Zea,A viral infection,Use resistant varieties,White powder on leaves,Australia,High,Crop rotation
+197,Late Blight,Tomato,Lycopersicon,A parasitic infection,Maintain good hygiene,Leaf curling,Europe,Medium,Crop rotation
+198,Rust,Wheat,Zea,A bacterial infection,Rotate crops,Yellowing leaves,Europe,High,Crop rotation
+199,Anthracnose,Tomato,Solanum,A bacterial infection,Maintain good hygiene,Reddish pustules,Europe,High,Use mulch
+200,Anthracnose,Tomato,Zea,Caused by nematodes,Use resistant varieties,Yellowing leaves,Asia,Medium,Use mulch
+201,Powdery Mildew,Potato,Zea,A fungal disease,Use resistant varieties,Yellowing leaves,Asia,Medium,Avoid overhead irrigation
+202,Anthracnose,Tomato,Lycopersicon,A bacterial infection,Use resistant varieties,White powder on leaves,Asia,Low,Maintain field hygiene
+203,Leaf Spot,Wheat,Lycopersicon,A bacterial infection,Apply neem oil,Yellowing leaves,Europe,Medium,Maintain field hygiene
+204,Anthracnose,Corn,Solanum,A fungal disease,Rotate crops,Black spots on leaves,America,Medium,Maintain field hygiene
+205,Anthracnose,Potato,Zea,Caused by nematodes,Apply neem oil,Leaf curling,America,Medium,Use certified seeds
+206,Powdery Mildew,Potato,Triticum,A bacterial infection,Use resistant varieties,Black spots on leaves,Europe,Medium,Use certified seeds
+207,Powdery Mildew,Tomato,Zea,A parasitic infection,Use fungicides,Reddish pustules,Europe,High,Crop rotation
+208,Powdery Mildew,Tomato,Solanum,A fungal disease,Rotate crops,Leaf curling,America,Medium,Maintain field hygiene
+209,Anthracnose,Tomato,Triticum,A bacterial infection,Rotate crops,White powder on leaves,Africa,Low,Avoid overhead irrigation
+210,Rust,Soybean,Zea,Caused by nematodes,Maintain good hygiene,Leaf curling,Australia,Medium,Avoid overhead irrigation
+211,Rust,Wheat,Lycopersicon,A viral infection,Apply neem oil,White powder on leaves,Europe,Medium,Avoid overhead irrigation
+212,Leaf Spot,Tomato,Solanum,A parasitic infection,Use fungicides,Yellowing leaves,Europe,Low,Use certified seeds
+213,Anthracnose,Soybean,Zea,A parasitic infection,Apply neem oil,White powder on leaves,Asia,High,Use certified seeds
+214,Powdery Mildew,Potato,Lycopersicon,A parasitic infection,Apply neem oil,Reddish pustules,Asia,High,Use mulch
+215,Rust,Wheat,Solanum,A parasitic infection,Use resistant varieties,Black spots on leaves,Europe,Medium,Maintain field hygiene
+216,Anthracnose,Soybean,Triticum,A viral infection,Rotate crops,Leaf curling,Africa,Low,Maintain field hygiene
+217,Powdery Mildew,Potato,Triticum,A viral infection,Apply neem oil,Black spots on leaves,Africa,Medium,Maintain field hygiene
+218,Leaf Spot,Corn,Solanum,A viral infection,Use fungicides,Black spots on leaves,Asia,Medium,Use mulch
+219,Rust,Corn,Lycopersicon,A viral infection,Rotate crops,Black spots on leaves,Australia,High,Avoid overhead irrigation
+220,Rust,Wheat,Triticum,Caused by nematodes,Rotate crops,Black spots on leaves,Europe,Medium,Avoid overhead irrigation
+221,Late Blight,Soybean,Solanum,A bacterial infection,Apply neem oil,Yellowing leaves,Africa,Low,Use mulch
+222,Powdery Mildew,Soybean,Zea,A viral infection,Apply neem oil,Reddish pustules,Africa,Low,Use mulch
+223,Late Blight,Potato,Solanum,A viral infection,Use fungicides,Reddish pustules,Europe,High,Maintain field hygiene
+224,Leaf Spot,Corn,Solanum,Caused by nematodes,Use fungicides,White powder on leaves,Australia,High,Use mulch
+225,Late Blight,Corn,Solanum,A fungal disease,Rotate crops,White powder on leaves,Asia,Medium,Maintain field hygiene
+226,Anthracnose,Tomato,Lycopersicon,Caused by nematodes,Maintain good hygiene,White powder on leaves,Europe,Low,Crop rotation
+227,Rust,Soybean,Glycine,A fungal disease,Rotate crops,Reddish pustules,Australia,Low,Maintain field hygiene
+228,Late Blight,Wheat,Zea,A parasitic infection,Maintain good hygiene,Reddish pustules,America,Low,Crop rotation
+229,Late Blight,Corn,Lycopersicon,Caused by nematodes,Use fungicides,Reddish pustules,America,Medium,Use certified seeds
+230,Powdery Mildew,Wheat,Solanum,A parasitic infection,Use resistant varieties,White powder on leaves,Australia,High,Use certified seeds
+231,Powdery Mildew,Wheat,Zea,A fungal disease,Apply neem oil,Yellowing leaves,Asia,Low,Maintain field hygiene
+232,Late Blight,Tomato,Lycopersicon,Caused by nematodes,Apply neem oil,Black spots on leaves,Europe,Medium,Use certified seeds
+233,Anthracnose,Corn,Triticum,A fungal disease,Apply neem oil,Reddish pustules,Africa,Medium,Maintain field hygiene
+234,Late Blight,Wheat,Zea,A fungal disease,Maintain good hygiene,Reddish pustules,Europe,Medium,Use mulch
+235,Anthracnose,Corn,Glycine,A parasitic infection,Maintain good hygiene,Leaf curling,Asia,Medium,Use mulch
+236,Late Blight,Tomato,Glycine,A fungal disease,Rotate crops,Reddish pustules,America,High,Use certified seeds
+237,Leaf Spot,Potato,Zea,A bacterial infection,Use fungicides,Black spots on leaves,Europe,Low,Use certified seeds
+238,Leaf Spot,Potato,Zea,A viral infection,Use resistant varieties,White powder on leaves,Australia,Low,Maintain field hygiene
+239,Late Blight,Potato,Solanum,Caused by nematodes,Maintain good hygiene,Leaf curling,Europe,Low,Crop rotation
+240,Powdery Mildew,Wheat,Solanum,A parasitic infection,Rotate crops,Black spots on leaves,Europe,High,Crop rotation
+241,Anthracnose,Wheat,Solanum,A viral infection,Rotate crops,Yellowing leaves,America,Medium,Avoid overhead irrigation
+242,Leaf Spot,Wheat,Zea,A parasitic infection,Use fungicides,Black spots on leaves,America,Low,Use certified seeds
+243,Anthracnose,Corn,Glycine,A bacterial infection,Rotate crops,Reddish pustules,Africa,High,Use certified seeds
+244,Rust,Soybean,Triticum,A viral infection,Use resistant varieties,White powder on leaves,America,High,Maintain field hygiene
+245,Powdery Mildew,Corn,Glycine,Caused by nematodes,Use fungicides,Black spots on leaves,America,Medium,Use certified seeds
+246,Powdery Mildew,Potato,Solanum,A fungal disease,Apply neem oil,Leaf curling,Europe,Low,Maintain field hygiene
+247,Rust,Soybean,Lycopersicon,A fungal disease,Use resistant varieties,Black spots on leaves,America,Low,Use certified seeds
+248,Powdery Mildew,Tomato,Glycine,A viral infection,Apply neem oil,Leaf curling,Europe,Medium,Maintain field hygiene
+249,Leaf Spot,Soybean,Solanum,A parasitic infection,Use resistant varieties,Leaf curling,Europe,Low,Crop rotation
+250,Rust,Tomato,Zea,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,High,Use mulch
+251,Leaf Spot,Wheat,Triticum,A fungal disease,Rotate crops,Leaf curling,Europe,High,Use mulch
+252,Leaf Spot,Potato,Lycopersicon,A viral infection,Maintain good hygiene,White powder on leaves,Africa,High,Use certified seeds
+253,Rust,Wheat,Glycine,A viral infection,Maintain good hygiene,Reddish pustules,Europe,High,Crop rotation
+254,Anthracnose,Corn,Solanum,A bacterial infection,Use resistant varieties,Yellowing leaves,Europe,Medium,Use mulch
+255,Anthracnose,Wheat,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Asia,Medium,Use mulch
+256,Powdery Mildew,Wheat,Triticum,Caused by nematodes,Use resistant varieties,Leaf curling,Africa,Medium,Maintain field hygiene
+257,Rust,Soybean,Lycopersicon,A parasitic infection,Rotate crops,Reddish pustules,Asia,Low,Use mulch
+258,Leaf Spot,Tomato,Glycine,A parasitic infection,Maintain good hygiene,Leaf curling,Australia,Medium,Use certified seeds
+259,Anthracnose,Potato,Triticum,A viral infection,Apply neem oil,Reddish pustules,Europe,High,Crop rotation
+260,Anthracnose,Wheat,Lycopersicon,A bacterial infection,Apply neem oil,Black spots on leaves,Africa,Medium,Maintain field hygiene
+261,Powdery Mildew,Wheat,Glycine,A viral infection,Rotate crops,Leaf curling,Africa,Low,Avoid overhead irrigation
+262,Powdery Mildew,Tomato,Solanum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Australia,High,Use certified seeds
+263,Powdery Mildew,Corn,Triticum,A fungal disease,Apply neem oil,Yellowing leaves,America,Medium,Maintain field hygiene
+264,Powdery Mildew,Corn,Solanum,A bacterial infection,Maintain good hygiene,Black spots on leaves,Africa,High,Maintain field hygiene
+265,Rust,Soybean,Triticum,Caused by nematodes,Use fungicides,Leaf curling,America,Low,Avoid overhead irrigation
+266,Late Blight,Tomato,Solanum,A fungal disease,Use resistant varieties,Black spots on leaves,Australia,Medium,Crop rotation
+267,Anthracnose,Wheat,Solanum,A fungal disease,Rotate crops,Reddish pustules,America,Medium,Avoid overhead irrigation
+268,Powdery Mildew,Corn,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,High,Avoid overhead irrigation
+269,Leaf Spot,Corn,Glycine,A viral infection,Use fungicides,Yellowing leaves,Europe,Low,Use certified seeds
+270,Anthracnose,Potato,Solanum,A bacterial infection,Apply neem oil,White powder on leaves,Europe,Medium,Use certified seeds
+271,Powdery Mildew,Potato,Triticum,A fungal disease,Use fungicides,Leaf curling,Europe,Medium,Use mulch
+272,Powdery Mildew,Soybean,Glycine,A viral infection,Use fungicides,White powder on leaves,Asia,Medium,Maintain field hygiene
+273,Rust,Corn,Glycine,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Africa,High,Use certified seeds
+274,Late Blight,Corn,Solanum,A viral infection,Rotate crops,White powder on leaves,Australia,Low,Maintain field hygiene
+275,Late Blight,Tomato,Triticum,A fungal disease,Apply neem oil,Reddish pustules,America,Medium,Avoid overhead irrigation
+276,Rust,Potato,Solanum,A bacterial infection,Use resistant varieties,White powder on leaves,Australia,Low,Use certified seeds
+277,Leaf Spot,Potato,Zea,A bacterial infection,Rotate crops,Black spots on leaves,Asia,Medium,Use certified seeds
+278,Late Blight,Corn,Solanum,Caused by nematodes,Use resistant varieties,Yellowing leaves,America,Low,Avoid overhead irrigation
+279,Leaf Spot,Soybean,Triticum,A viral infection,Apply neem oil,Leaf curling,Asia,Low,Maintain field hygiene
+280,Anthracnose,Corn,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,America,Low,Maintain field hygiene
+281,Anthracnose,Wheat,Glycine,A bacterial infection,Use resistant varieties,Black spots on leaves,Africa,Low,Crop rotation
+282,Late Blight,Potato,Lycopersicon,A parasitic infection,Apply neem oil,Yellowing leaves,Europe,Medium,Crop rotation
+283,Late Blight,Potato,Solanum,A viral infection,Use fungicides,White powder on leaves,Europe,Low,Crop rotation
+284,Anthracnose,Tomato,Glycine,A viral infection,Use fungicides,White powder on leaves,Africa,Medium,Maintain field hygiene
+285,Anthracnose,Soybean,Zea,A parasitic infection,Apply neem oil,Reddish pustules,Africa,Medium,Avoid overhead irrigation
+286,Late Blight,Tomato,Glycine,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Europe,Low,Use mulch
+287,Anthracnose,Potato,Zea,A parasitic infection,Apply neem oil,Black spots on leaves,Australia,High,Use mulch
+288,Late Blight,Soybean,Glycine,A fungal disease,Apply neem oil,Leaf curling,America,High,Use mulch
+289,Rust,Corn,Glycine,A parasitic infection,Use resistant varieties,Leaf curling,Australia,High,Use certified seeds
+290,Powdery Mildew,Corn,Triticum,A parasitic infection,Use fungicides,Leaf curling,Australia,Low,Use mulch
+291,Late Blight,Soybean,Glycine,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Africa,Medium,Use mulch
+292,Leaf Spot,Wheat,Zea,A fungal disease,Use fungicides,Reddish pustules,Europe,Low,Avoid overhead irrigation
+293,Late Blight,Corn,Triticum,A viral infection,Maintain good hygiene,Leaf curling,America,Low,Crop rotation
+294,Anthracnose,Tomato,Glycine,A fungal disease,Rotate crops,White powder on leaves,Europe,High,Avoid overhead irrigation
+295,Leaf Spot,Corn,Triticum,A parasitic infection,Rotate crops,Leaf curling,Europe,High,Use certified seeds
+296,Leaf Spot,Corn,Glycine,A viral infection,Maintain good hygiene,Leaf curling,Europe,Medium,Crop rotation
+297,Powdery Mildew,Wheat,Lycopersicon,Caused by nematodes,Apply neem oil,Black spots on leaves,Africa,Low,Maintain field hygiene
+298,Late Blight,Corn,Triticum,A viral infection,Use fungicides,Yellowing leaves,Europe,High,Maintain field hygiene
+299,Rust,Tomato,Zea,Caused by nematodes,Use resistant varieties,Yellowing leaves,Europe,Low,Use certified seeds
+300,Leaf Spot,Tomato,Lycopersicon,A parasitic infection,Rotate crops,White powder on leaves,America,Low,Avoid overhead irrigation
+301,Leaf Spot,Tomato,Glycine,A fungal disease,Use resistant varieties,Leaf curling,Africa,Medium,Avoid overhead irrigation
+302,Rust,Potato,Glycine,A fungal disease,Apply neem oil,White powder on leaves,Australia,Medium,Maintain field hygiene
+303,Leaf Spot,Corn,Lycopersicon,A fungal disease,Maintain good hygiene,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+304,Anthracnose,Corn,Solanum,A fungal disease,Use resistant varieties,Leaf curling,Europe,High,Maintain field hygiene
+305,Rust,Soybean,Lycopersicon,A fungal disease,Apply neem oil,White powder on leaves,Europe,Medium,Avoid overhead irrigation
+306,Anthracnose,Wheat,Zea,A bacterial infection,Apply neem oil,White powder on leaves,America,High,Use certified seeds
+307,Late Blight,Potato,Glycine,A parasitic infection,Use resistant varieties,Reddish pustules,Australia,Medium,Avoid overhead irrigation
+308,Late Blight,Corn,Triticum,A fungal disease,Use fungicides,White powder on leaves,Asia,Low,Avoid overhead irrigation
+309,Late Blight,Tomato,Solanum,A fungal disease,Rotate crops,Yellowing leaves,America,Medium,Avoid overhead irrigation
+310,Anthracnose,Potato,Triticum,Caused by nematodes,Rotate crops,Reddish pustules,Asia,Medium,Use mulch
+311,Leaf Spot,Potato,Lycopersicon,A parasitic infection,Apply neem oil,Black spots on leaves,America,Low,Use mulch
+312,Leaf Spot,Tomato,Glycine,Caused by nematodes,Rotate crops,Leaf curling,America,Medium,Maintain field hygiene
+313,Rust,Soybean,Zea,A fungal disease,Apply neem oil,Black spots on leaves,Africa,Medium,Use certified seeds
+314,Rust,Corn,Lycopersicon,A parasitic infection,Use fungicides,Leaf curling,America,High,Use certified seeds
+315,Leaf Spot,Wheat,Lycopersicon,A parasitic infection,Maintain good hygiene,Reddish pustules,Australia,Medium,Use mulch
+316,Powdery Mildew,Soybean,Triticum,A parasitic infection,Maintain good hygiene,Black spots on leaves,Africa,High,Maintain field hygiene
+317,Anthracnose,Wheat,Triticum,A viral infection,Maintain good hygiene,Yellowing leaves,Asia,Medium,Use certified seeds
+318,Anthracnose,Wheat,Glycine,A bacterial infection,Use fungicides,White powder on leaves,Africa,Medium,Use certified seeds
+319,Anthracnose,Corn,Triticum,A bacterial infection,Maintain good hygiene,Leaf curling,Asia,High,Avoid overhead irrigation
+320,Powdery Mildew,Potato,Solanum,A fungal disease,Maintain good hygiene,Black spots on leaves,Asia,High,Use mulch
+321,Rust,Tomato,Glycine,A bacterial infection,Use resistant varieties,Leaf curling,Asia,High,Use certified seeds
+322,Rust,Wheat,Zea,A parasitic infection,Use fungicides,White powder on leaves,America,Medium,Use mulch
+323,Anthracnose,Soybean,Solanum,A viral infection,Maintain good hygiene,Reddish pustules,Australia,High,Avoid overhead irrigation
+324,Rust,Corn,Lycopersicon,A bacterial infection,Use resistant varieties,Reddish pustules,Africa,Medium,Use mulch
+325,Anthracnose,Corn,Triticum,A bacterial infection,Maintain good hygiene,Yellowing leaves,Asia,High,Avoid overhead irrigation
+326,Leaf Spot,Soybean,Zea,A viral infection,Apply neem oil,Yellowing leaves,Australia,Low,Use certified seeds
+327,Leaf Spot,Wheat,Glycine,Caused by nematodes,Maintain good hygiene,Reddish pustules,Asia,High,Crop rotation
+328,Rust,Wheat,Triticum,A fungal disease,Use resistant varieties,Leaf curling,Asia,Medium,Use certified seeds
+329,Powdery Mildew,Wheat,Solanum,A parasitic infection,Apply neem oil,Leaf curling,Europe,Medium,Use certified seeds
+330,Rust,Soybean,Lycopersicon,A viral infection,Use fungicides,Leaf curling,Asia,Medium,Avoid overhead irrigation
+331,Late Blight,Wheat,Lycopersicon,Caused by nematodes,Use fungicides,Leaf curling,Europe,Low,Use certified seeds
+332,Anthracnose,Soybean,Triticum,A fungal disease,Use fungicides,White powder on leaves,Europe,Low,Use mulch
+333,Late Blight,Corn,Glycine,Caused by nematodes,Maintain good hygiene,Reddish pustules,Asia,High,Use certified seeds
+334,Rust,Soybean,Glycine,A fungal disease,Use resistant varieties,Black spots on leaves,Australia,Low,Use mulch
+335,Leaf Spot,Tomato,Triticum,A bacterial infection,Use fungicides,Reddish pustules,Australia,Low,Crop rotation
+336,Anthracnose,Potato,Triticum,A viral infection,Use resistant varieties,Yellowing leaves,America,Low,Use mulch
+337,Rust,Potato,Triticum,A fungal disease,Use fungicides,Leaf curling,Europe,Medium,Use mulch
+338,Powdery Mildew,Tomato,Zea,A viral infection,Rotate crops,Reddish pustules,Australia,High,Avoid overhead irrigation
+339,Rust,Soybean,Triticum,A viral infection,Apply neem oil,Leaf curling,Australia,Low,Avoid overhead irrigation
+340,Powdery Mildew,Potato,Zea,Caused by nematodes,Maintain good hygiene,Leaf curling,America,Medium,Avoid overhead irrigation
+341,Leaf Spot,Tomato,Solanum,A parasitic infection,Apply neem oil,White powder on leaves,Europe,Low,Use mulch
+342,Powdery Mildew,Wheat,Triticum,Caused by nematodes,Apply neem oil,White powder on leaves,Asia,High,Use certified seeds
+343,Late Blight,Tomato,Triticum,Caused by nematodes,Rotate crops,Leaf curling,Europe,High,Avoid overhead irrigation
+344,Late Blight,Potato,Glycine,A parasitic infection,Use resistant varieties,Reddish pustules,Africa,Medium,Use certified seeds
+345,Late Blight,Soybean,Triticum,A parasitic infection,Apply neem oil,Black spots on leaves,Australia,High,Use certified seeds
+346,Late Blight,Soybean,Zea,Caused by nematodes,Rotate crops,White powder on leaves,America,Medium,Use certified seeds
+347,Late Blight,Soybean,Zea,A viral infection,Use resistant varieties,Black spots on leaves,Europe,Low,Avoid overhead irrigation
+348,Powdery Mildew,Potato,Triticum,A bacterial infection,Rotate crops,Black spots on leaves,America,Medium,Use certified seeds
+349,Late Blight,Wheat,Zea,A parasitic infection,Use resistant varieties,Leaf curling,Africa,High,Crop rotation
+350,Anthracnose,Soybean,Triticum,A bacterial infection,Rotate crops,White powder on leaves,Asia,Low,Use mulch
+351,Powdery Mildew,Corn,Solanum,A viral infection,Apply neem oil,Leaf curling,Asia,High,Avoid overhead irrigation
+352,Leaf Spot,Wheat,Zea,A parasitic infection,Apply neem oil,White powder on leaves,Australia,Low,Maintain field hygiene
+353,Powdery Mildew,Tomato,Zea,A fungal disease,Rotate crops,Yellowing leaves,Europe,Medium,Use certified seeds
+354,Rust,Corn,Zea,A fungal disease,Apply neem oil,Reddish pustules,Africa,Medium,Use mulch
+355,Leaf Spot,Wheat,Zea,Caused by nematodes,Rotate crops,Yellowing leaves,Europe,Low,Maintain field hygiene
+356,Late Blight,Potato,Triticum,A bacterial infection,Rotate crops,Reddish pustules,Europe,Medium,Maintain field hygiene
+357,Late Blight,Corn,Triticum,A fungal disease,Maintain good hygiene,Reddish pustules,America,High,Use mulch
+358,Rust,Wheat,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,Australia,Low,Crop rotation
+359,Late Blight,Wheat,Triticum,Caused by nematodes,Apply neem oil,White powder on leaves,Australia,High,Use mulch
+360,Leaf Spot,Wheat,Zea,Caused by nematodes,Rotate crops,White powder on leaves,Europe,Low,Use certified seeds
+361,Leaf Spot,Wheat,Solanum,A viral infection,Use fungicides,Reddish pustules,Europe,High,Use certified seeds
+362,Leaf Spot,Soybean,Lycopersicon,A bacterial infection,Rotate crops,Yellowing leaves,Africa,Medium,Use certified seeds
+363,Powdery Mildew,Corn,Glycine,A parasitic infection,Apply neem oil,Black spots on leaves,Europe,High,Maintain field hygiene
+364,Powdery Mildew,Wheat,Solanum,Caused by nematodes,Rotate crops,Reddish pustules,Australia,Medium,Avoid overhead irrigation
+365,Leaf Spot,Tomato,Glycine,A parasitic infection,Use resistant varieties,Black spots on leaves,America,High,Crop rotation
+366,Powdery Mildew,Wheat,Zea,A fungal disease,Use resistant varieties,Yellowing leaves,Africa,Low,Use mulch
+367,Powdery Mildew,Soybean,Lycopersicon,A viral infection,Maintain good hygiene,Black spots on leaves,America,High,Maintain field hygiene
+368,Anthracnose,Corn,Glycine,A parasitic infection,Apply neem oil,White powder on leaves,Europe,High,Use certified seeds
+369,Powdery Mildew,Corn,Solanum,Caused by nematodes,Apply neem oil,Yellowing leaves,Africa,Low,Use mulch
+370,Anthracnose,Wheat,Triticum,A viral infection,Use fungicides,White powder on leaves,America,Medium,Crop rotation
+371,Anthracnose,Wheat,Glycine,Caused by nematodes,Rotate crops,Black spots on leaves,Africa,High,Avoid overhead irrigation
+372,Powdery Mildew,Tomato,Triticum,A viral infection,Apply neem oil,Leaf curling,Asia,High,Use certified seeds
+373,Powdery Mildew,Corn,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,Asia,Low,Avoid overhead irrigation
+374,Powdery Mildew,Corn,Zea,A parasitic infection,Use fungicides,Leaf curling,Australia,Low,Maintain field hygiene
+375,Late Blight,Corn,Triticum,A fungal disease,Use resistant varieties,Reddish pustules,Africa,High,Avoid overhead irrigation
+376,Anthracnose,Potato,Lycopersicon,A bacterial infection,Apply neem oil,Leaf curling,Africa,Low,Use certified seeds
+377,Late Blight,Corn,Solanum,Caused by nematodes,Use fungicides,White powder on leaves,Australia,Medium,Use certified seeds
+378,Leaf Spot,Corn,Lycopersicon,Caused by nematodes,Use resistant varieties,White powder on leaves,Asia,Medium,Crop rotation
+379,Powdery Mildew,Tomato,Glycine,A fungal disease,Apply neem oil,Black spots on leaves,Africa,High,Maintain field hygiene
+380,Leaf Spot,Tomato,Glycine,A viral infection,Use resistant varieties,Black spots on leaves,Australia,Low,Crop rotation
+381,Late Blight,Soybean,Lycopersicon,A viral infection,Apply neem oil,Reddish pustules,Australia,High,Avoid overhead irrigation
+382,Anthracnose,Tomato,Glycine,A parasitic infection,Maintain good hygiene,White powder on leaves,Africa,Medium,Use mulch
+383,Rust,Corn,Zea,A parasitic infection,Rotate crops,Yellowing leaves,Asia,Medium,Use certified seeds
+384,Powdery Mildew,Corn,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,America,Medium,Crop rotation
+385,Leaf Spot,Corn,Zea,A bacterial infection,Apply neem oil,Leaf curling,Asia,Medium,Use certified seeds
+386,Leaf Spot,Tomato,Triticum,Caused by nematodes,Rotate crops,Yellowing leaves,Africa,Medium,Use mulch
+387,Leaf Spot,Wheat,Solanum,A viral infection,Maintain good hygiene,Reddish pustules,Africa,High,Use certified seeds
+388,Late Blight,Potato,Solanum,A bacterial infection,Use resistant varieties,Leaf curling,Africa,Medium,Avoid overhead irrigation
+389,Late Blight,Soybean,Glycine,A bacterial infection,Maintain good hygiene,Yellowing leaves,Asia,High,Use mulch
+390,Rust,Wheat,Triticum,A fungal disease,Rotate crops,Black spots on leaves,America,Medium,Maintain field hygiene
+391,Late Blight,Potato,Lycopersicon,A parasitic infection,Use fungicides,White powder on leaves,America,Low,Crop rotation
+392,Anthracnose,Tomato,Triticum,A bacterial infection,Rotate crops,Leaf curling,Australia,Medium,Use certified seeds
+393,Anthracnose,Soybean,Lycopersicon,Caused by nematodes,Use resistant varieties,White powder on leaves,Australia,Low,Avoid overhead irrigation
+394,Leaf Spot,Soybean,Triticum,A viral infection,Rotate crops,Leaf curling,Europe,High,Crop rotation
+395,Powdery Mildew,Tomato,Triticum,A parasitic infection,Maintain good hygiene,White powder on leaves,Europe,Low,Use certified seeds
+396,Leaf Spot,Wheat,Lycopersicon,Caused by nematodes,Rotate crops,Leaf curling,Europe,Medium,Avoid overhead irrigation
+397,Anthracnose,Potato,Zea,A viral infection,Rotate crops,White powder on leaves,Europe,Low,Use mulch
+398,Anthracnose,Corn,Glycine,Caused by nematodes,Rotate crops,Black spots on leaves,America,Medium,Maintain field hygiene
+399,Anthracnose,Corn,Glycine,Caused by nematodes,Rotate crops,White powder on leaves,Africa,Medium,Use certified seeds
+400,Leaf Spot,Potato,Glycine,A parasitic infection,Use resistant varieties,Leaf curling,America,High,Use certified seeds
+401,Rust,Corn,Lycopersicon,A viral infection,Rotate crops,White powder on leaves,America,Medium,Use certified seeds
+402,Powdery Mildew,Wheat,Glycine,Caused by nematodes,Use fungicides,White powder on leaves,Australia,Medium,Maintain field hygiene
+403,Rust,Tomato,Solanum,A bacterial infection,Use resistant varieties,Reddish pustules,America,Low,Use certified seeds
+404,Rust,Corn,Triticum,A parasitic infection,Use resistant varieties,Leaf curling,Europe,Medium,Maintain field hygiene
+405,Powdery Mildew,Tomato,Lycopersicon,A fungal disease,Rotate crops,White powder on leaves,Australia,Low,Maintain field hygiene
+406,Anthracnose,Corn,Lycopersicon,A bacterial infection,Maintain good hygiene,Leaf curling,Europe,High,Use mulch
+407,Anthracnose,Corn,Solanum,A viral infection,Rotate crops,Reddish pustules,Australia,High,Crop rotation
+408,Leaf Spot,Soybean,Triticum,A bacterial infection,Use resistant varieties,Leaf curling,Australia,High,Avoid overhead irrigation
+409,Leaf Spot,Corn,Glycine,Caused by nematodes,Apply neem oil,Leaf curling,Asia,Medium,Maintain field hygiene
+410,Rust,Soybean,Lycopersicon,A fungal disease,Use fungicides,Leaf curling,Australia,Low,Crop rotation
+411,Powdery Mildew,Potato,Lycopersicon,A parasitic infection,Maintain good hygiene,Yellowing leaves,Asia,Medium,Maintain field hygiene
+412,Powdery Mildew,Corn,Lycopersicon,A fungal disease,Maintain good hygiene,White powder on leaves,Africa,Low,Use mulch
+413,Late Blight,Corn,Lycopersicon,A bacterial infection,Maintain good hygiene,Yellowing leaves,Europe,Medium,Use mulch
+414,Late Blight,Corn,Lycopersicon,A fungal disease,Use resistant varieties,White powder on leaves,America,High,Use mulch
+415,Rust,Soybean,Lycopersicon,A viral infection,Maintain good hygiene,White powder on leaves,Africa,High,Use mulch
+416,Leaf Spot,Corn,Solanum,Caused by nematodes,Maintain good hygiene,Reddish pustules,America,High,Crop rotation
+417,Anthracnose,Wheat,Lycopersicon,Caused by nematodes,Apply neem oil,Yellowing leaves,Europe,Low,Use certified seeds
+418,Anthracnose,Potato,Zea,A viral infection,Apply neem oil,Yellowing leaves,America,Low,Avoid overhead irrigation
+419,Rust,Tomato,Triticum,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,High,Maintain field hygiene
+420,Powdery Mildew,Tomato,Triticum,A parasitic infection,Maintain good hygiene,Reddish pustules,Africa,Medium,Use certified seeds
+421,Late Blight,Soybean,Glycine,Caused by nematodes,Maintain good hygiene,White powder on leaves,Asia,High,Crop rotation
+422,Leaf Spot,Potato,Lycopersicon,Caused by nematodes,Rotate crops,White powder on leaves,America,High,Crop rotation
+423,Powdery Mildew,Potato,Lycopersicon,A bacterial infection,Use resistant varieties,Black spots on leaves,Africa,Low,Avoid overhead irrigation
+424,Leaf Spot,Tomato,Solanum,A fungal disease,Rotate crops,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+425,Leaf Spot,Soybean,Zea,Caused by nematodes,Use resistant varieties,Yellowing leaves,Europe,High,Use mulch
+426,Rust,Wheat,Triticum,A bacterial infection,Rotate crops,Black spots on leaves,Europe,Medium,Use certified seeds
+427,Late Blight,Potato,Triticum,A viral infection,Apply neem oil,Black spots on leaves,Africa,Medium,Crop rotation
+428,Late Blight,Tomato,Glycine,A parasitic infection,Maintain good hygiene,White powder on leaves,Asia,Medium,Use certified seeds
+429,Anthracnose,Wheat,Lycopersicon,A viral infection,Apply neem oil,White powder on leaves,Africa,High,Maintain field hygiene
+430,Powdery Mildew,Wheat,Solanum,A parasitic infection,Rotate crops,Black spots on leaves,Africa,Medium,Use mulch
+431,Powdery Mildew,Wheat,Glycine,A bacterial infection,Use resistant varieties,Yellowing leaves,Asia,Low,Use certified seeds
+432,Late Blight,Corn,Glycine,A viral infection,Use fungicides,White powder on leaves,Australia,Medium,Maintain field hygiene
+433,Leaf Spot,Wheat,Glycine,A bacterial infection,Use fungicides,White powder on leaves,America,Low,Avoid overhead irrigation
+434,Anthracnose,Wheat,Solanum,A parasitic infection,Maintain good hygiene,Black spots on leaves,America,Low,Use mulch
+435,Anthracnose,Tomato,Solanum,Caused by nematodes,Maintain good hygiene,Reddish pustules,America,Low,Use mulch
+436,Leaf Spot,Soybean,Lycopersicon,A bacterial infection,Rotate crops,Yellowing leaves,Africa,Low,Maintain field hygiene
+437,Anthracnose,Corn,Solanum,A fungal disease,Use resistant varieties,White powder on leaves,America,Medium,Use mulch
+438,Leaf Spot,Tomato,Glycine,Caused by nematodes,Use resistant varieties,White powder on leaves,Africa,Low,Crop rotation
+439,Anthracnose,Tomato,Lycopersicon,Caused by nematodes,Apply neem oil,Reddish pustules,Africa,Medium,Use mulch
+440,Late Blight,Wheat,Glycine,A fungal disease,Rotate crops,White powder on leaves,Asia,High,Use certified seeds
+441,Anthracnose,Corn,Glycine,A viral infection,Apply neem oil,Leaf curling,Europe,High,Avoid overhead irrigation
+442,Anthracnose,Soybean,Triticum,A fungal disease,Rotate crops,Black spots on leaves,Asia,Medium,Use certified seeds
+443,Powdery Mildew,Soybean,Solanum,Caused by nematodes,Rotate crops,White powder on leaves,Australia,Medium,Maintain field hygiene
+444,Anthracnose,Tomato,Triticum,A viral infection,Maintain good hygiene,Leaf curling,America,Low,Use mulch
+445,Leaf Spot,Corn,Triticum,A viral infection,Maintain good hygiene,White powder on leaves,Asia,High,Avoid overhead irrigation
+446,Late Blight,Tomato,Glycine,A parasitic infection,Use resistant varieties,Black spots on leaves,Asia,High,Avoid overhead irrigation
+447,Anthracnose,Tomato,Solanum,A fungal disease,Use resistant varieties,Leaf curling,Asia,Medium,Use mulch
+448,Late Blight,Soybean,Glycine,Caused by nematodes,Maintain good hygiene,Leaf curling,Australia,Low,Use certified seeds
+449,Late Blight,Soybean,Zea,A bacterial infection,Use fungicides,Black spots on leaves,Australia,Low,Crop rotation
+450,Anthracnose,Tomato,Glycine,A parasitic infection,Use resistant varieties,Reddish pustules,America,Low,Maintain field hygiene
+451,Powdery Mildew,Soybean,Glycine,A bacterial infection,Apply neem oil,Reddish pustules,Europe,Medium,Use mulch
+452,Rust,Soybean,Solanum,A viral infection,Use fungicides,Black spots on leaves,America,Low,Crop rotation
+453,Anthracnose,Wheat,Glycine,Caused by nematodes,Apply neem oil,White powder on leaves,Europe,Medium,Use mulch
+454,Rust,Wheat,Glycine,Caused by nematodes,Rotate crops,Yellowing leaves,Europe,High,Maintain field hygiene
+455,Anthracnose,Potato,Triticum,A fungal disease,Rotate crops,White powder on leaves,Australia,Medium,Use certified seeds
+456,Late Blight,Potato,Glycine,Caused by nematodes,Rotate crops,Leaf curling,Australia,Medium,Use certified seeds
+457,Anthracnose,Tomato,Solanum,Caused by nematodes,Use resistant varieties,Yellowing leaves,Asia,High,Maintain field hygiene
+458,Rust,Tomato,Triticum,A fungal disease,Use resistant varieties,Leaf curling,America,High,Maintain field hygiene
+459,Late Blight,Tomato,Lycopersicon,A fungal disease,Rotate crops,Leaf curling,Europe,Medium,Use certified seeds
+460,Anthracnose,Tomato,Lycopersicon,Caused by nematodes,Use resistant varieties,Black spots on leaves,Europe,High,Use certified seeds
+461,Powdery Mildew,Soybean,Glycine,Caused by nematodes,Use resistant varieties,Reddish pustules,Europe,Low,Use mulch
+462,Leaf Spot,Potato,Triticum,A parasitic infection,Apply neem oil,Reddish pustules,Asia,Medium,Crop rotation
+463,Anthracnose,Tomato,Zea,A bacterial infection,Maintain good hygiene,Reddish pustules,Australia,Medium,Use mulch
+464,Powdery Mildew,Wheat,Lycopersicon,A parasitic infection,Rotate crops,Reddish pustules,Australia,Medium,Avoid overhead irrigation
+465,Rust,Soybean,Triticum,A parasitic infection,Use fungicides,Yellowing leaves,Asia,High,Crop rotation
+466,Powdery Mildew,Potato,Lycopersicon,A viral infection,Maintain good hygiene,Reddish pustules,America,Low,Crop rotation
+467,Leaf Spot,Soybean,Triticum,Caused by nematodes,Maintain good hygiene,Black spots on leaves,America,Low,Maintain field hygiene
+468,Powdery Mildew,Corn,Glycine,A parasitic infection,Apply neem oil,White powder on leaves,Asia,Low,Use mulch
+469,Anthracnose,Tomato,Triticum,Caused by nematodes,Rotate crops,Leaf curling,Australia,High,Crop rotation
+470,Powdery Mildew,Wheat,Triticum,A parasitic infection,Use fungicides,White powder on leaves,America,High,Crop rotation
+471,Anthracnose,Potato,Solanum,A viral infection,Use fungicides,Yellowing leaves,Europe,Medium,Maintain field hygiene
+472,Rust,Soybean,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Europe,Low,Use certified seeds
+473,Leaf Spot,Potato,Zea,A bacterial infection,Maintain good hygiene,Leaf curling,Australia,Medium,Avoid overhead irrigation
+474,Powdery Mildew,Corn,Lycopersicon,A viral infection,Apply neem oil,Yellowing leaves,Asia,High,Use certified seeds
+475,Leaf Spot,Wheat,Triticum,A fungal disease,Use fungicides,Black spots on leaves,Asia,High,Crop rotation
+476,Powdery Mildew,Soybean,Triticum,A bacterial infection,Maintain good hygiene,Leaf curling,America,Medium,Avoid overhead irrigation
+477,Leaf Spot,Corn,Glycine,A parasitic infection,Maintain good hygiene,Reddish pustules,Australia,High,Use certified seeds
+478,Powdery Mildew,Wheat,Solanum,Caused by nematodes,Apply neem oil,Leaf curling,Australia,High,Use certified seeds
+479,Rust,Tomato,Lycopersicon,Caused by nematodes,Rotate crops,Yellowing leaves,America,High,Use mulch
+480,Rust,Potato,Zea,A bacterial infection,Use resistant varieties,Yellowing leaves,Australia,Low,Use mulch
+481,Anthracnose,Corn,Triticum,A fungal disease,Maintain good hygiene,Leaf curling,Australia,Medium,Avoid overhead irrigation
+482,Powdery Mildew,Potato,Solanum,Caused by nematodes,Maintain good hygiene,Black spots on leaves,America,Medium,Avoid overhead irrigation
+483,Rust,Potato,Lycopersicon,A fungal disease,Use resistant varieties,Black spots on leaves,Australia,High,Crop rotation
+484,Rust,Corn,Lycopersicon,A fungal disease,Use fungicides,Reddish pustules,America,High,Use mulch
+485,Leaf Spot,Corn,Zea,A viral infection,Use resistant varieties,Yellowing leaves,Africa,Low,Maintain field hygiene
+486,Rust,Soybean,Glycine,A bacterial infection,Apply neem oil,Reddish pustules,Asia,High,Crop rotation
+487,Rust,Wheat,Lycopersicon,A bacterial infection,Maintain good hygiene,Reddish pustules,Asia,Low,Maintain field hygiene
+488,Anthracnose,Tomato,Lycopersicon,A bacterial infection,Maintain good hygiene,Black spots on leaves,Australia,Low,Use mulch
+489,Late Blight,Wheat,Zea,A parasitic infection,Rotate crops,Reddish pustules,Europe,Medium,Use certified seeds
+490,Leaf Spot,Tomato,Triticum,A bacterial infection,Use fungicides,White powder on leaves,Europe,Medium,Use certified seeds
+491,Rust,Tomato,Glycine,Caused by nematodes,Apply neem oil,Reddish pustules,Asia,High,Crop rotation
+492,Late Blight,Soybean,Zea,Caused by nematodes,Use resistant varieties,Reddish pustules,Europe,Medium,Avoid overhead irrigation
+493,Late Blight,Wheat,Triticum,A bacterial infection,Use fungicides,Yellowing leaves,America,Medium,Use mulch
+494,Rust,Corn,Zea,Caused by nematodes,Use fungicides,Leaf curling,America,Low,Maintain field hygiene
+495,Anthracnose,Potato,Zea,A viral infection,Apply neem oil,Reddish pustules,Africa,Low,Maintain field hygiene
+496,Powdery Mildew,Soybean,Zea,A parasitic infection,Rotate crops,Reddish pustules,Europe,High,Crop rotation
+497,Anthracnose,Soybean,Solanum,A parasitic infection,Apply neem oil,Leaf curling,Asia,Low,Crop rotation
+498,Rust,Soybean,Zea,A fungal disease,Apply neem oil,Yellowing leaves,Africa,Medium,Use mulch
+499,Leaf Spot,Corn,Triticum,A fungal disease,Rotate crops,Yellowing leaves,Australia,Medium,Use certified seeds
+500,Powdery Mildew,Potato,Triticum,A parasitic infection,Use fungicides,White powder on leaves,America,Medium,Crop rotation
+501,Powdery Mildew,Tomato,Lycopersicon,A bacterial infection,Use fungicides,Black spots on leaves,Asia,Low,Use mulch
+502,Rust,Corn,Solanum,A bacterial infection,Use resistant varieties,Yellowing leaves,Asia,High,Use certified seeds
+503,Rust,Wheat,Triticum,A viral infection,Rotate crops,Yellowing leaves,Europe,Medium,Avoid overhead irrigation
+504,Leaf Spot,Wheat,Solanum,A parasitic infection,Use fungicides,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+505,Anthracnose,Corn,Lycopersicon,Caused by nematodes,Use fungicides,Leaf curling,Australia,Medium,Avoid overhead irrigation
+506,Leaf Spot,Soybean,Solanum,Caused by nematodes,Rotate crops,Yellowing leaves,Europe,Low,Maintain field hygiene
+507,Rust,Corn,Triticum,A fungal disease,Maintain good hygiene,Yellowing leaves,Europe,Medium,Avoid overhead irrigation
+508,Leaf Spot,Potato,Glycine,A parasitic infection,Use fungicides,Reddish pustules,Africa,Medium,Use mulch
+509,Rust,Tomato,Solanum,A fungal disease,Rotate crops,Black spots on leaves,Europe,Low,Crop rotation
+510,Powdery Mildew,Tomato,Solanum,A viral infection,Maintain good hygiene,Leaf curling,Africa,High,Use certified seeds
+511,Leaf Spot,Tomato,Glycine,A fungal disease,Maintain good hygiene,Reddish pustules,Australia,Medium,Use mulch
+512,Late Blight,Tomato,Zea,A viral infection,Use fungicides,Black spots on leaves,Asia,Medium,Use certified seeds
+513,Powdery Mildew,Soybean,Glycine,A parasitic infection,Use resistant varieties,Leaf curling,Australia,Medium,Crop rotation
+514,Late Blight,Wheat,Zea,A viral infection,Apply neem oil,Black spots on leaves,Europe,High,Maintain field hygiene
+515,Rust,Wheat,Glycine,A fungal disease,Use resistant varieties,Leaf curling,Asia,Medium,Crop rotation
+516,Late Blight,Corn,Solanum,A parasitic infection,Use resistant varieties,Yellowing leaves,Asia,High,Crop rotation
+517,Anthracnose,Tomato,Zea,A fungal disease,Use fungicides,Leaf curling,America,High,Crop rotation
+518,Rust,Wheat,Zea,Caused by nematodes,Rotate crops,White powder on leaves,Australia,Low,Use certified seeds
+519,Late Blight,Potato,Glycine,A bacterial infection,Rotate crops,Reddish pustules,Africa,High,Crop rotation
+520,Rust,Corn,Solanum,A viral infection,Maintain good hygiene,White powder on leaves,Australia,Medium,Use mulch
+521,Anthracnose,Soybean,Solanum,A viral infection,Use resistant varieties,Black spots on leaves,Australia,Low,Avoid overhead irrigation
+522,Late Blight,Wheat,Solanum,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,Low,Avoid overhead irrigation
+523,Late Blight,Tomato,Zea,A viral infection,Maintain good hygiene,White powder on leaves,Australia,High,Use mulch
+524,Powdery Mildew,Soybean,Zea,A viral infection,Apply neem oil,Leaf curling,Australia,Low,Maintain field hygiene
+525,Late Blight,Potato,Zea,Caused by nematodes,Maintain good hygiene,Reddish pustules,Australia,Medium,Avoid overhead irrigation
+526,Late Blight,Potato,Solanum,A parasitic infection,Rotate crops,Yellowing leaves,America,Medium,Use certified seeds
+527,Rust,Potato,Lycopersicon,A viral infection,Use fungicides,Reddish pustules,Asia,High,Maintain field hygiene
+528,Anthracnose,Soybean,Lycopersicon,Caused by nematodes,Apply neem oil,Reddish pustules,Africa,High,Crop rotation
+529,Leaf Spot,Wheat,Zea,A viral infection,Use fungicides,Leaf curling,Europe,Medium,Maintain field hygiene
+530,Anthracnose,Wheat,Zea,A parasitic infection,Maintain good hygiene,Black spots on leaves,Asia,Low,Crop rotation
+531,Anthracnose,Tomato,Solanum,Caused by nematodes,Maintain good hygiene,Leaf curling,America,Medium,Avoid overhead irrigation
+532,Late Blight,Soybean,Solanum,A viral infection,Use fungicides,Leaf curling,Africa,High,Crop rotation
+533,Leaf Spot,Wheat,Lycopersicon,Caused by nematodes,Rotate crops,Yellowing leaves,Europe,Medium,Maintain field hygiene
+534,Leaf Spot,Corn,Lycopersicon,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,High,Crop rotation
+535,Anthracnose,Tomato,Glycine,A viral infection,Use fungicides,Black spots on leaves,Europe,Low,Use mulch
+536,Rust,Wheat,Solanum,A fungal disease,Maintain good hygiene,Yellowing leaves,America,Medium,Crop rotation
+537,Leaf Spot,Corn,Triticum,A parasitic infection,Apply neem oil,Reddish pustules,Australia,High,Use mulch
+538,Leaf Spot,Tomato,Glycine,A viral infection,Apply neem oil,Black spots on leaves,Europe,Low,Use certified seeds
+539,Anthracnose,Potato,Solanum,A viral infection,Use resistant varieties,White powder on leaves,Asia,Medium,Use mulch
+540,Powdery Mildew,Potato,Triticum,A fungal disease,Apply neem oil,White powder on leaves,America,Medium,Maintain field hygiene
+541,Leaf Spot,Corn,Triticum,Caused by nematodes,Rotate crops,White powder on leaves,America,Medium,Use certified seeds
+542,Anthracnose,Potato,Zea,A parasitic infection,Use fungicides,Reddish pustules,America,Low,Maintain field hygiene
+543,Powdery Mildew,Corn,Zea,A fungal disease,Rotate crops,White powder on leaves,Australia,High,Use certified seeds
+544,Anthracnose,Tomato,Triticum,A parasitic infection,Use resistant varieties,Yellowing leaves,Australia,High,Use certified seeds
+545,Anthracnose,Wheat,Triticum,A viral infection,Rotate crops,Black spots on leaves,Asia,High,Use mulch
+546,Rust,Tomato,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,America,Low,Use certified seeds
+547,Late Blight,Corn,Triticum,Caused by nematodes,Apply neem oil,Black spots on leaves,Africa,High,Maintain field hygiene
+548,Powdery Mildew,Soybean,Zea,A bacterial infection,Apply neem oil,Yellowing leaves,America,High,Maintain field hygiene
+549,Late Blight,Soybean,Zea,A parasitic infection,Use fungicides,Yellowing leaves,Asia,Medium,Use certified seeds
+550,Powdery Mildew,Corn,Zea,A bacterial infection,Maintain good hygiene,Leaf curling,America,Medium,Use certified seeds
+551,Powdery Mildew,Potato,Lycopersicon,Caused by nematodes,Maintain good hygiene,Reddish pustules,America,Low,Crop rotation
+552,Leaf Spot,Corn,Glycine,A fungal disease,Use resistant varieties,Yellowing leaves,Africa,Low,Crop rotation
+553,Rust,Wheat,Glycine,A parasitic infection,Rotate crops,Reddish pustules,Asia,Medium,Use certified seeds
+554,Rust,Tomato,Glycine,A parasitic infection,Maintain good hygiene,Reddish pustules,America,High,Use certified seeds
+555,Anthracnose,Corn,Lycopersicon,A parasitic infection,Use fungicides,Leaf curling,Australia,Low,Avoid overhead irrigation
+556,Late Blight,Wheat,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,Europe,High,Crop rotation
+557,Anthracnose,Soybean,Lycopersicon,A bacterial infection,Use resistant varieties,Yellowing leaves,Africa,Medium,Use mulch
+558,Rust,Corn,Lycopersicon,Caused by nematodes,Apply neem oil,White powder on leaves,Africa,Low,Maintain field hygiene
+559,Anthracnose,Potato,Triticum,A bacterial infection,Use fungicides,Reddish pustules,Asia,High,Use mulch
+560,Rust,Corn,Lycopersicon,A viral infection,Apply neem oil,Leaf curling,Australia,High,Crop rotation
+561,Rust,Soybean,Solanum,A viral infection,Use fungicides,Reddish pustules,Australia,Medium,Crop rotation
+562,Powdery Mildew,Wheat,Solanum,A fungal disease,Rotate crops,Yellowing leaves,Australia,High,Avoid overhead irrigation
+563,Anthracnose,Corn,Glycine,A fungal disease,Use fungicides,White powder on leaves,Asia,High,Avoid overhead irrigation
+564,Powdery Mildew,Corn,Solanum,A parasitic infection,Rotate crops,Yellowing leaves,Asia,Medium,Use mulch
+565,Anthracnose,Potato,Triticum,A viral infection,Rotate crops,Black spots on leaves,Asia,Medium,Avoid overhead irrigation
+566,Rust,Corn,Solanum,A bacterial infection,Rotate crops,White powder on leaves,America,High,Avoid overhead irrigation
+567,Rust,Tomato,Lycopersicon,Caused by nematodes,Apply neem oil,Leaf curling,America,High,Use certified seeds
+568,Leaf Spot,Corn,Solanum,A viral infection,Apply neem oil,Leaf curling,Africa,Medium,Use certified seeds
+569,Powdery Mildew,Wheat,Zea,A viral infection,Apply neem oil,Reddish pustules,Africa,Medium,Avoid overhead irrigation
+570,Late Blight,Tomato,Triticum,A bacterial infection,Use resistant varieties,Reddish pustules,Europe,Medium,Maintain field hygiene
+571,Anthracnose,Potato,Glycine,A viral infection,Use resistant varieties,White powder on leaves,Europe,Medium,Maintain field hygiene
+572,Late Blight,Wheat,Zea,A bacterial infection,Maintain good hygiene,Yellowing leaves,Africa,Medium,Use certified seeds
+573,Leaf Spot,Potato,Triticum,A bacterial infection,Use resistant varieties,White powder on leaves,Europe,Low,Maintain field hygiene
+574,Rust,Corn,Triticum,A bacterial infection,Apply neem oil,Black spots on leaves,America,Low,Maintain field hygiene
+575,Powdery Mildew,Corn,Triticum,A bacterial infection,Use resistant varieties,White powder on leaves,Africa,Medium,Use certified seeds
+576,Late Blight,Corn,Solanum,A viral infection,Use resistant varieties,White powder on leaves,Asia,High,Maintain field hygiene
+577,Powdery Mildew,Soybean,Solanum,A viral infection,Use resistant varieties,Black spots on leaves,Australia,Low,Use mulch
+578,Rust,Soybean,Zea,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Asia,High,Use mulch
+579,Powdery Mildew,Soybean,Zea,A fungal disease,Rotate crops,Black spots on leaves,Europe,Medium,Crop rotation
+580,Powdery Mildew,Tomato,Lycopersicon,Caused by nematodes,Apply neem oil,White powder on leaves,Asia,High,Maintain field hygiene
+581,Anthracnose,Soybean,Lycopersicon,A bacterial infection,Apply neem oil,Reddish pustules,Africa,High,Use mulch
+582,Late Blight,Corn,Lycopersicon,A parasitic infection,Maintain good hygiene,Leaf curling,Africa,High,Use mulch
+583,Leaf Spot,Corn,Triticum,Caused by nematodes,Use fungicides,Yellowing leaves,Europe,High,Use mulch
+584,Powdery Mildew,Potato,Glycine,A parasitic infection,Rotate crops,Yellowing leaves,Africa,Low,Avoid overhead irrigation
+585,Powdery Mildew,Wheat,Lycopersicon,A parasitic infection,Maintain good hygiene,Black spots on leaves,Asia,Low,Use certified seeds
+586,Leaf Spot,Wheat,Zea,A viral infection,Apply neem oil,Reddish pustules,Australia,Medium,Maintain field hygiene
+587,Late Blight,Tomato,Glycine,A bacterial infection,Use resistant varieties,White powder on leaves,Europe,High,Use mulch
+588,Rust,Wheat,Lycopersicon,A fungal disease,Maintain good hygiene,Reddish pustules,Australia,Medium,Crop rotation
+589,Anthracnose,Tomato,Solanum,A fungal disease,Use fungicides,Black spots on leaves,America,Medium,Avoid overhead irrigation
+590,Leaf Spot,Potato,Lycopersicon,A fungal disease,Maintain good hygiene,Yellowing leaves,Australia,High,Avoid overhead irrigation
+591,Powdery Mildew,Corn,Lycopersicon,A fungal disease,Use fungicides,White powder on leaves,Africa,Medium,Use certified seeds
+592,Rust,Corn,Triticum,A fungal disease,Maintain good hygiene,Black spots on leaves,Asia,High,Maintain field hygiene
+593,Anthracnose,Tomato,Triticum,A parasitic infection,Use fungicides,Leaf curling,Australia,Medium,Crop rotation
+594,Leaf Spot,Soybean,Lycopersicon,A parasitic infection,Maintain good hygiene,Leaf curling,Australia,Low,Maintain field hygiene
+595,Powdery Mildew,Potato,Triticum,A parasitic infection,Use fungicides,Leaf curling,Asia,Low,Use mulch
+596,Late Blight,Corn,Solanum,A bacterial infection,Use fungicides,Yellowing leaves,Europe,High,Crop rotation
+597,Leaf Spot,Corn,Glycine,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Asia,High,Crop rotation
+598,Powdery Mildew,Potato,Glycine,A viral infection,Apply neem oil,Reddish pustules,America,High,Maintain field hygiene
+599,Rust,Tomato,Triticum,A parasitic infection,Maintain good hygiene,Reddish pustules,Australia,Medium,Maintain field hygiene
+600,Leaf Spot,Soybean,Lycopersicon,A bacterial infection,Apply neem oil,Leaf curling,Asia,Medium,Avoid overhead irrigation
+601,Anthracnose,Tomato,Solanum,A bacterial infection,Use fungicides,Black spots on leaves,Australia,High,Use mulch
+602,Late Blight,Potato,Solanum,A viral infection,Maintain good hygiene,Leaf curling,Europe,Medium,Use mulch
+603,Leaf Spot,Wheat,Zea,A fungal disease,Use fungicides,White powder on leaves,Australia,Medium,Use certified seeds
+604,Leaf Spot,Tomato,Triticum,A bacterial infection,Apply neem oil,White powder on leaves,Australia,Medium,Maintain field hygiene
+605,Late Blight,Wheat,Zea,Caused by nematodes,Maintain good hygiene,Leaf curling,Asia,Low,Use mulch
+606,Rust,Potato,Triticum,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Europe,Medium,Use certified seeds
+607,Anthracnose,Wheat,Zea,Caused by nematodes,Maintain good hygiene,Reddish pustules,America,Low,Maintain field hygiene
+608,Powdery Mildew,Corn,Lycopersicon,A bacterial infection,Rotate crops,Leaf curling,Asia,Medium,Use certified seeds
+609,Rust,Wheat,Triticum,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,High,Use mulch
+610,Powdery Mildew,Soybean,Glycine,A bacterial infection,Use fungicides,Black spots on leaves,Europe,Low,Avoid overhead irrigation
+611,Anthracnose,Soybean,Triticum,A bacterial infection,Use fungicides,White powder on leaves,Africa,High,Crop rotation
+612,Rust,Potato,Glycine,Caused by nematodes,Maintain good hygiene,Reddish pustules,Australia,Low,Avoid overhead irrigation
+613,Leaf Spot,Soybean,Zea,A viral infection,Use resistant varieties,Black spots on leaves,Asia,Low,Crop rotation
+614,Rust,Wheat,Zea,A viral infection,Use resistant varieties,Leaf curling,Europe,Medium,Use certified seeds
+615,Powdery Mildew,Corn,Lycopersicon,A bacterial infection,Rotate crops,Black spots on leaves,Asia,High,Maintain field hygiene
+616,Leaf Spot,Potato,Glycine,Caused by nematodes,Use fungicides,Leaf curling,Europe,Medium,Maintain field hygiene
+617,Late Blight,Tomato,Lycopersicon,A viral infection,Maintain good hygiene,Black spots on leaves,Europe,High,Maintain field hygiene
+618,Rust,Corn,Solanum,Caused by nematodes,Rotate crops,White powder on leaves,America,Medium,Avoid overhead irrigation
+619,Rust,Tomato,Glycine,A bacterial infection,Maintain good hygiene,Reddish pustules,Europe,Low,Maintain field hygiene
+620,Leaf Spot,Potato,Triticum,A bacterial infection,Use fungicides,Black spots on leaves,Europe,Medium,Crop rotation
+621,Rust,Tomato,Glycine,A parasitic infection,Use resistant varieties,Black spots on leaves,Africa,Medium,Crop rotation
+622,Leaf Spot,Corn,Zea,A bacterial infection,Apply neem oil,White powder on leaves,Australia,High,Crop rotation
+623,Late Blight,Soybean,Lycopersicon,Caused by nematodes,Apply neem oil,Black spots on leaves,America,Low,Maintain field hygiene
+624,Rust,Potato,Solanum,A bacterial infection,Maintain good hygiene,Yellowing leaves,Australia,High,Use mulch
+625,Powdery Mildew,Soybean,Lycopersicon,A fungal disease,Rotate crops,Yellowing leaves,Asia,Low,Crop rotation
+626,Rust,Soybean,Solanum,A parasitic infection,Apply neem oil,Leaf curling,America,Low,Crop rotation
+627,Leaf Spot,Soybean,Zea,A bacterial infection,Rotate crops,Black spots on leaves,America,Low,Use mulch
+628,Leaf Spot,Corn,Lycopersicon,A bacterial infection,Use fungicides,Leaf curling,Europe,Low,Maintain field hygiene
+629,Powdery Mildew,Wheat,Triticum,A parasitic infection,Maintain good hygiene,Black spots on leaves,Africa,Medium,Maintain field hygiene
+630,Powdery Mildew,Soybean,Triticum,A fungal disease,Rotate crops,White powder on leaves,Europe,High,Avoid overhead irrigation
+631,Leaf Spot,Wheat,Lycopersicon,A parasitic infection,Maintain good hygiene,Reddish pustules,Africa,High,Maintain field hygiene
+632,Leaf Spot,Potato,Lycopersicon,Caused by nematodes,Apply neem oil,Reddish pustules,America,Medium,Crop rotation
+633,Rust,Tomato,Solanum,Caused by nematodes,Use resistant varieties,Leaf curling,America,Medium,Avoid overhead irrigation
+634,Leaf Spot,Soybean,Lycopersicon,A fungal disease,Use fungicides,Yellowing leaves,Africa,Low,Use mulch
+635,Powdery Mildew,Wheat,Solanum,A bacterial infection,Apply neem oil,Black spots on leaves,Europe,Medium,Use mulch
+636,Rust,Potato,Lycopersicon,A parasitic infection,Maintain good hygiene,Reddish pustules,Europe,Medium,Use certified seeds
+637,Leaf Spot,Corn,Lycopersicon,A viral infection,Rotate crops,Leaf curling,America,Low,Avoid overhead irrigation
+638,Late Blight,Potato,Glycine,A fungal disease,Maintain good hygiene,Black spots on leaves,Europe,High,Use mulch
+639,Powdery Mildew,Corn,Solanum,A parasitic infection,Rotate crops,White powder on leaves,America,Low,Use certified seeds
+640,Late Blight,Tomato,Zea,A parasitic infection,Maintain good hygiene,Leaf curling,America,Medium,Crop rotation
+641,Rust,Tomato,Triticum,A fungal disease,Use fungicides,Yellowing leaves,Asia,Medium,Use mulch
+642,Powdery Mildew,Wheat,Solanum,A viral infection,Use resistant varieties,Black spots on leaves,Africa,High,Use certified seeds
+643,Rust,Corn,Lycopersicon,Caused by nematodes,Rotate crops,Black spots on leaves,Africa,Low,Use certified seeds
+644,Anthracnose,Corn,Triticum,Caused by nematodes,Apply neem oil,Reddish pustules,Asia,High,Avoid overhead irrigation
+645,Powdery Mildew,Tomato,Lycopersicon,A bacterial infection,Use resistant varieties,Reddish pustules,Asia,Medium,Maintain field hygiene
+646,Rust,Potato,Zea,A bacterial infection,Use fungicides,Leaf curling,Australia,High,Crop rotation
+647,Late Blight,Potato,Solanum,Caused by nematodes,Rotate crops,Yellowing leaves,America,High,Maintain field hygiene
+648,Rust,Wheat,Solanum,A viral infection,Maintain good hygiene,Reddish pustules,Australia,Low,Use certified seeds
+649,Leaf Spot,Tomato,Lycopersicon,A fungal disease,Maintain good hygiene,Black spots on leaves,America,Medium,Use mulch
+650,Leaf Spot,Tomato,Lycopersicon,A parasitic infection,Use resistant varieties,Leaf curling,Africa,High,Maintain field hygiene
+651,Late Blight,Soybean,Solanum,A bacterial infection,Maintain good hygiene,Leaf curling,Australia,Low,Maintain field hygiene
+652,Rust,Wheat,Lycopersicon,Caused by nematodes,Use resistant varieties,Yellowing leaves,America,High,Use mulch
+653,Powdery Mildew,Tomato,Solanum,A parasitic infection,Use resistant varieties,Reddish pustules,Africa,Medium,Maintain field hygiene
+654,Late Blight,Soybean,Glycine,A fungal disease,Apply neem oil,Reddish pustules,Africa,Medium,Use mulch
+655,Rust,Corn,Zea,A fungal disease,Apply neem oil,Yellowing leaves,Asia,Low,Crop rotation
+656,Anthracnose,Soybean,Solanum,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,Low,Avoid overhead irrigation
+657,Leaf Spot,Tomato,Zea,A bacterial infection,Maintain good hygiene,Leaf curling,Australia,High,Use mulch
+658,Late Blight,Potato,Zea,A viral infection,Rotate crops,Yellowing leaves,Europe,Medium,Use mulch
+659,Rust,Wheat,Glycine,A fungal disease,Rotate crops,White powder on leaves,Europe,High,Use mulch
+660,Anthracnose,Corn,Solanum,Caused by nematodes,Apply neem oil,Yellowing leaves,Africa,Medium,Avoid overhead irrigation
+661,Leaf Spot,Potato,Lycopersicon,A fungal disease,Apply neem oil,Leaf curling,America,Low,Use certified seeds
+662,Anthracnose,Wheat,Lycopersicon,A fungal disease,Rotate crops,Black spots on leaves,Australia,High,Crop rotation
+663,Late Blight,Corn,Solanum,A viral infection,Apply neem oil,White powder on leaves,Australia,High,Use mulch
+664,Rust,Corn,Solanum,A fungal disease,Use resistant varieties,White powder on leaves,Australia,Low,Maintain field hygiene
+665,Anthracnose,Tomato,Zea,Caused by nematodes,Use fungicides,White powder on leaves,America,High,Crop rotation
+666,Anthracnose,Soybean,Zea,A viral infection,Use resistant varieties,Leaf curling,Africa,High,Use mulch
+667,Anthracnose,Potato,Triticum,A fungal disease,Rotate crops,Yellowing leaves,America,Medium,Use certified seeds
+668,Powdery Mildew,Soybean,Zea,A bacterial infection,Apply neem oil,Reddish pustules,Australia,Medium,Maintain field hygiene
+669,Anthracnose,Tomato,Solanum,A parasitic infection,Use fungicides,Leaf curling,America,High,Use mulch
+670,Rust,Tomato,Triticum,A fungal disease,Apply neem oil,Leaf curling,Africa,Medium,Avoid overhead irrigation
+671,Rust,Potato,Zea,Caused by nematodes,Use resistant varieties,Leaf curling,Europe,High,Maintain field hygiene
+672,Rust,Corn,Lycopersicon,Caused by nematodes,Apply neem oil,Reddish pustules,Australia,High,Avoid overhead irrigation
+673,Leaf Spot,Wheat,Zea,A bacterial infection,Use resistant varieties,Leaf curling,Europe,High,Crop rotation
+674,Anthracnose,Corn,Zea,A fungal disease,Use fungicides,Reddish pustules,Asia,High,Maintain field hygiene
+675,Late Blight,Soybean,Zea,A fungal disease,Maintain good hygiene,White powder on leaves,Europe,Medium,Maintain field hygiene
+676,Leaf Spot,Potato,Zea,A fungal disease,Maintain good hygiene,Yellowing leaves,Asia,Medium,Avoid overhead irrigation
+677,Powdery Mildew,Tomato,Glycine,Caused by nematodes,Use fungicides,Leaf curling,America,Medium,Crop rotation
+678,Rust,Corn,Solanum,A viral infection,Apply neem oil,Reddish pustules,Asia,Medium,Crop rotation
+679,Powdery Mildew,Potato,Triticum,A viral infection,Maintain good hygiene,White powder on leaves,Europe,Low,Avoid overhead irrigation
+680,Leaf Spot,Wheat,Solanum,A bacterial infection,Use resistant varieties,Black spots on leaves,Africa,Medium,Use mulch
+681,Powdery Mildew,Tomato,Zea,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Africa,Medium,Use certified seeds
+682,Leaf Spot,Corn,Lycopersicon,A parasitic infection,Use resistant varieties,Black spots on leaves,Europe,Medium,Avoid overhead irrigation
+683,Powdery Mildew,Tomato,Triticum,A bacterial infection,Use fungicides,Yellowing leaves,Europe,High,Avoid overhead irrigation
+684,Rust,Soybean,Solanum,A viral infection,Maintain good hygiene,Leaf curling,Asia,Medium,Use mulch
+685,Anthracnose,Wheat,Lycopersicon,A parasitic infection,Use fungicides,Reddish pustules,Europe,Low,Use mulch
+686,Rust,Wheat,Zea,A bacterial infection,Rotate crops,Yellowing leaves,Europe,High,Maintain field hygiene
+687,Rust,Wheat,Lycopersicon,A bacterial infection,Use fungicides,Leaf curling,Europe,Medium,Maintain field hygiene
+688,Rust,Soybean,Solanum,Caused by nematodes,Maintain good hygiene,White powder on leaves,Europe,Medium,Crop rotation
+689,Anthracnose,Corn,Triticum,A fungal disease,Use resistant varieties,Leaf curling,Australia,High,Use mulch
+690,Rust,Corn,Solanum,A viral infection,Use fungicides,Black spots on leaves,Australia,Low,Crop rotation
+691,Leaf Spot,Corn,Lycopersicon,A viral infection,Maintain good hygiene,Yellowing leaves,Africa,Medium,Avoid overhead irrigation
+692,Powdery Mildew,Corn,Lycopersicon,A fungal disease,Apply neem oil,Reddish pustules,Asia,Low,Crop rotation
+693,Anthracnose,Corn,Solanum,A parasitic infection,Use resistant varieties,Black spots on leaves,Africa,Medium,Avoid overhead irrigation
+694,Late Blight,Potato,Solanum,A parasitic infection,Apply neem oil,White powder on leaves,Africa,Low,Avoid overhead irrigation
+695,Leaf Spot,Soybean,Solanum,A parasitic infection,Apply neem oil,Leaf curling,Asia,Medium,Use mulch
+696,Anthracnose,Wheat,Lycopersicon,A fungal disease,Rotate crops,Yellowing leaves,Asia,Low,Crop rotation
+697,Powdery Mildew,Corn,Glycine,Caused by nematodes,Use fungicides,White powder on leaves,Africa,Low,Use mulch
+698,Anthracnose,Corn,Solanum,Caused by nematodes,Apply neem oil,Reddish pustules,Europe,Low,Avoid overhead irrigation
+699,Leaf Spot,Wheat,Zea,A bacterial infection,Use resistant varieties,Black spots on leaves,Europe,High,Maintain field hygiene
+700,Leaf Spot,Wheat,Lycopersicon,A viral infection,Apply neem oil,Yellowing leaves,America,High,Use certified seeds
+701,Late Blight,Potato,Glycine,A fungal disease,Rotate crops,White powder on leaves,America,Low,Use certified seeds
+702,Rust,Soybean,Triticum,Caused by nematodes,Maintain good hygiene,Reddish pustules,America,Medium,Use mulch
+703,Powdery Mildew,Tomato,Glycine,A viral infection,Use resistant varieties,Leaf curling,Africa,Medium,Avoid overhead irrigation
+704,Leaf Spot,Potato,Triticum,A parasitic infection,Use resistant varieties,Reddish pustules,Asia,High,Use mulch
+705,Leaf Spot,Tomato,Glycine,A fungal disease,Maintain good hygiene,Black spots on leaves,Australia,Medium,Use mulch
+706,Powdery Mildew,Potato,Lycopersicon,A viral infection,Rotate crops,White powder on leaves,Asia,Medium,Maintain field hygiene
+707,Leaf Spot,Soybean,Zea,Caused by nematodes,Rotate crops,Reddish pustules,Australia,Low,Use mulch
+708,Late Blight,Soybean,Lycopersicon,A parasitic infection,Use fungicides,Yellowing leaves,Asia,Medium,Crop rotation
+709,Late Blight,Tomato,Glycine,A bacterial infection,Use resistant varieties,Black spots on leaves,Asia,Low,Maintain field hygiene
+710,Rust,Corn,Glycine,A bacterial infection,Use fungicides,Yellowing leaves,Australia,Low,Use certified seeds
+711,Anthracnose,Corn,Triticum,A bacterial infection,Apply neem oil,Reddish pustules,Europe,Low,Use mulch
+712,Powdery Mildew,Corn,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,America,Low,Use mulch
+713,Late Blight,Tomato,Lycopersicon,A fungal disease,Use fungicides,Black spots on leaves,Africa,Medium,Use certified seeds
+714,Late Blight,Corn,Triticum,A viral infection,Maintain good hygiene,Black spots on leaves,Africa,Low,Maintain field hygiene
+715,Late Blight,Wheat,Glycine,Caused by nematodes,Use fungicides,Leaf curling,Europe,Medium,Maintain field hygiene
+716,Late Blight,Wheat,Glycine,A viral infection,Apply neem oil,Reddish pustules,Europe,Medium,Avoid overhead irrigation
+717,Rust,Soybean,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,Africa,Medium,Crop rotation
+718,Leaf Spot,Tomato,Lycopersicon,A parasitic infection,Rotate crops,Yellowing leaves,Australia,Low,Maintain field hygiene
+719,Late Blight,Corn,Glycine,Caused by nematodes,Use fungicides,Leaf curling,Africa,High,Use mulch
+720,Rust,Wheat,Zea,A bacterial infection,Maintain good hygiene,Yellowing leaves,Asia,Low,Crop rotation
+721,Anthracnose,Corn,Solanum,A fungal disease,Maintain good hygiene,Reddish pustules,Australia,Medium,Maintain field hygiene
+722,Leaf Spot,Potato,Solanum,A viral infection,Maintain good hygiene,Yellowing leaves,Europe,Low,Avoid overhead irrigation
+723,Anthracnose,Corn,Triticum,A parasitic infection,Use fungicides,White powder on leaves,Africa,Medium,Crop rotation
+724,Leaf Spot,Soybean,Triticum,A bacterial infection,Apply neem oil,Black spots on leaves,Europe,High,Use certified seeds
+725,Leaf Spot,Potato,Triticum,A parasitic infection,Use resistant varieties,Yellowing leaves,Australia,Low,Use mulch
+726,Leaf Spot,Tomato,Glycine,A viral infection,Maintain good hygiene,Yellowing leaves,Asia,High,Crop rotation
+727,Rust,Corn,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,Asia,High,Crop rotation
+728,Powdery Mildew,Corn,Lycopersicon,A fungal disease,Use resistant varieties,Leaf curling,Europe,High,Crop rotation
+729,Anthracnose,Potato,Zea,A bacterial infection,Rotate crops,Yellowing leaves,Australia,Low,Crop rotation
+730,Leaf Spot,Soybean,Glycine,A fungal disease,Rotate crops,White powder on leaves,Asia,Medium,Use certified seeds
+731,Leaf Spot,Soybean,Glycine,A viral infection,Maintain good hygiene,Reddish pustules,Asia,High,Crop rotation
+732,Late Blight,Soybean,Lycopersicon,A parasitic infection,Maintain good hygiene,Leaf curling,Asia,Low,Use certified seeds
+733,Late Blight,Tomato,Glycine,A fungal disease,Rotate crops,Yellowing leaves,Australia,Medium,Crop rotation
+734,Rust,Potato,Lycopersicon,A parasitic infection,Maintain good hygiene,Black spots on leaves,Asia,High,Crop rotation
+735,Leaf Spot,Wheat,Lycopersicon,A fungal disease,Rotate crops,Black spots on leaves,Australia,High,Use certified seeds
+736,Anthracnose,Tomato,Solanum,A viral infection,Use fungicides,Black spots on leaves,Europe,Medium,Crop rotation
+737,Anthracnose,Soybean,Glycine,A parasitic infection,Use resistant varieties,Reddish pustules,Australia,Medium,Maintain field hygiene
+738,Late Blight,Soybean,Glycine,A fungal disease,Use fungicides,Black spots on leaves,Europe,High,Use certified seeds
+739,Late Blight,Corn,Zea,A fungal disease,Rotate crops,Leaf curling,Europe,Medium,Use mulch
+740,Powdery Mildew,Tomato,Lycopersicon,A viral infection,Use fungicides,Reddish pustules,Asia,High,Maintain field hygiene
+741,Leaf Spot,Potato,Zea,A parasitic infection,Rotate crops,White powder on leaves,Europe,Low,Crop rotation
+742,Leaf Spot,Soybean,Zea,A fungal disease,Use fungicides,White powder on leaves,Europe,High,Crop rotation
+743,Late Blight,Wheat,Zea,A bacterial infection,Use resistant varieties,Black spots on leaves,America,Medium,Use mulch
+744,Late Blight,Corn,Triticum,A viral infection,Rotate crops,Reddish pustules,America,High,Maintain field hygiene
+745,Late Blight,Potato,Solanum,A fungal disease,Maintain good hygiene,Black spots on leaves,America,High,Use certified seeds
+746,Powdery Mildew,Potato,Lycopersicon,A viral infection,Maintain good hygiene,Black spots on leaves,Africa,Medium,Maintain field hygiene
+747,Powdery Mildew,Potato,Glycine,Caused by nematodes,Maintain good hygiene,White powder on leaves,Australia,Low,Use mulch
+748,Powdery Mildew,Corn,Triticum,A fungal disease,Rotate crops,White powder on leaves,Australia,Low,Use certified seeds
+749,Leaf Spot,Wheat,Triticum,A bacterial infection,Maintain good hygiene,Reddish pustules,America,High,Use certified seeds
+750,Powdery Mildew,Soybean,Triticum,Caused by nematodes,Apply neem oil,Black spots on leaves,Asia,Medium,Avoid overhead irrigation
+751,Leaf Spot,Corn,Glycine,A viral infection,Use resistant varieties,Reddish pustules,America,High,Crop rotation
+752,Late Blight,Corn,Triticum,A parasitic infection,Apply neem oil,Leaf curling,Australia,Low,Use certified seeds
+753,Leaf Spot,Wheat,Triticum,A parasitic infection,Rotate crops,Leaf curling,America,Medium,Use certified seeds
+754,Anthracnose,Potato,Glycine,A viral infection,Rotate crops,Yellowing leaves,Asia,High,Avoid overhead irrigation
+755,Rust,Soybean,Solanum,A parasitic infection,Use resistant varieties,White powder on leaves,Australia,Low,Avoid overhead irrigation
+756,Late Blight,Tomato,Triticum,A parasitic infection,Use fungicides,Reddish pustules,Europe,High,Use certified seeds
+757,Anthracnose,Potato,Lycopersicon,A bacterial infection,Use resistant varieties,Black spots on leaves,Asia,High,Use mulch
+758,Rust,Potato,Solanum,Caused by nematodes,Apply neem oil,Yellowing leaves,Africa,High,Avoid overhead irrigation
+759,Anthracnose,Wheat,Glycine,A fungal disease,Apply neem oil,Leaf curling,America,Low,Maintain field hygiene
+760,Rust,Tomato,Solanum,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,High,Use mulch
+761,Rust,Soybean,Solanum,A viral infection,Apply neem oil,Yellowing leaves,Asia,Medium,Maintain field hygiene
+762,Powdery Mildew,Soybean,Zea,A bacterial infection,Use fungicides,Yellowing leaves,Africa,Low,Maintain field hygiene
+763,Anthracnose,Soybean,Glycine,A viral infection,Rotate crops,Leaf curling,Australia,High,Use mulch
+764,Anthracnose,Wheat,Solanum,Caused by nematodes,Rotate crops,Black spots on leaves,Australia,High,Use certified seeds
+765,Late Blight,Tomato,Glycine,A bacterial infection,Use resistant varieties,Black spots on leaves,America,Low,Crop rotation
+766,Leaf Spot,Tomato,Triticum,A bacterial infection,Rotate crops,Yellowing leaves,Asia,Low,Maintain field hygiene
+767,Anthracnose,Potato,Glycine,Caused by nematodes,Rotate crops,White powder on leaves,Europe,High,Use mulch
+768,Anthracnose,Corn,Solanum,A fungal disease,Rotate crops,White powder on leaves,Australia,High,Maintain field hygiene
+769,Late Blight,Tomato,Glycine,Caused by nematodes,Use fungicides,White powder on leaves,Asia,High,Crop rotation
+770,Late Blight,Soybean,Zea,A bacterial infection,Use fungicides,Yellowing leaves,Africa,Low,Avoid overhead irrigation
+771,Powdery Mildew,Soybean,Zea,A bacterial infection,Rotate crops,White powder on leaves,Europe,High,Avoid overhead irrigation
+772,Leaf Spot,Corn,Zea,A fungal disease,Apply neem oil,Leaf curling,Australia,Low,Avoid overhead irrigation
+773,Leaf Spot,Corn,Glycine,A fungal disease,Rotate crops,Yellowing leaves,America,Low,Maintain field hygiene
+774,Powdery Mildew,Potato,Solanum,A viral infection,Use resistant varieties,White powder on leaves,America,Low,Maintain field hygiene
+775,Late Blight,Potato,Triticum,A viral infection,Maintain good hygiene,Reddish pustules,Europe,High,Use mulch
+776,Late Blight,Wheat,Lycopersicon,A bacterial infection,Use resistant varieties,Black spots on leaves,Australia,Medium,Use certified seeds
+777,Late Blight,Soybean,Triticum,A viral infection,Maintain good hygiene,Yellowing leaves,Australia,Low,Crop rotation
+778,Anthracnose,Wheat,Zea,A fungal disease,Use fungicides,Black spots on leaves,Africa,Medium,Avoid overhead irrigation
+779,Leaf Spot,Soybean,Solanum,A viral infection,Use fungicides,Black spots on leaves,Africa,High,Use certified seeds
+780,Leaf Spot,Wheat,Glycine,A viral infection,Rotate crops,White powder on leaves,America,Medium,Crop rotation
+781,Rust,Potato,Glycine,A bacterial infection,Maintain good hygiene,Reddish pustules,America,Low,Avoid overhead irrigation
+782,Rust,Tomato,Solanum,Caused by nematodes,Use fungicides,White powder on leaves,Australia,Low,Avoid overhead irrigation
+783,Anthracnose,Corn,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,Asia,High,Use certified seeds
+784,Anthracnose,Soybean,Zea,A parasitic infection,Rotate crops,Reddish pustules,Africa,High,Crop rotation
+785,Leaf Spot,Potato,Zea,A parasitic infection,Use fungicides,Black spots on leaves,Europe,Medium,Use mulch
+786,Rust,Potato,Solanum,A bacterial infection,Maintain good hygiene,Black spots on leaves,Europe,Medium,Avoid overhead irrigation
+787,Powdery Mildew,Potato,Zea,A bacterial infection,Use resistant varieties,Reddish pustules,Europe,Medium,Use certified seeds
+788,Late Blight,Wheat,Lycopersicon,Caused by nematodes,Use fungicides,Reddish pustules,America,Low,Use certified seeds
+789,Leaf Spot,Corn,Glycine,A bacterial infection,Apply neem oil,Reddish pustules,Asia,Medium,Use mulch
+790,Powdery Mildew,Potato,Zea,A fungal disease,Use fungicides,Black spots on leaves,Europe,Low,Use mulch
+791,Anthracnose,Wheat,Zea,A bacterial infection,Use resistant varieties,Leaf curling,America,High,Use certified seeds
+792,Late Blight,Potato,Zea,A viral infection,Rotate crops,Leaf curling,Africa,High,Use certified seeds
+793,Anthracnose,Wheat,Solanum,A bacterial infection,Rotate crops,Yellowing leaves,Africa,Medium,Maintain field hygiene
+794,Rust,Tomato,Lycopersicon,Caused by nematodes,Use resistant varieties,Leaf curling,Asia,Low,Crop rotation
+795,Powdery Mildew,Wheat,Zea,A fungal disease,Rotate crops,White powder on leaves,America,Medium,Use mulch
+796,Late Blight,Soybean,Lycopersicon,A parasitic infection,Use fungicides,Black spots on leaves,Australia,High,Use mulch
+797,Late Blight,Corn,Lycopersicon,A fungal disease,Maintain good hygiene,Leaf curling,Africa,High,Use mulch
+798,Anthracnose,Wheat,Solanum,A fungal disease,Use fungicides,Reddish pustules,America,Low,Use certified seeds
+799,Leaf Spot,Corn,Zea,A viral infection,Maintain good hygiene,Reddish pustules,Asia,High,Avoid overhead irrigation
+800,Powdery Mildew,Wheat,Lycopersicon,A fungal disease,Apply neem oil,White powder on leaves,Africa,Low,Crop rotation
+801,Late Blight,Corn,Zea,A bacterial infection,Use resistant varieties,Yellowing leaves,America,Low,Use certified seeds
+802,Late Blight,Tomato,Zea,Caused by nematodes,Use resistant varieties,Reddish pustules,Australia,High,Crop rotation
+803,Rust,Soybean,Triticum,A fungal disease,Use fungicides,Leaf curling,Australia,Low,Use certified seeds
+804,Powdery Mildew,Soybean,Glycine,A fungal disease,Rotate crops,Reddish pustules,Asia,High,Use mulch
+805,Powdery Mildew,Soybean,Zea,A bacterial infection,Use resistant varieties,Yellowing leaves,Africa,High,Avoid overhead irrigation
+806,Late Blight,Wheat,Solanum,A fungal disease,Maintain good hygiene,White powder on leaves,Asia,Low,Maintain field hygiene
+807,Powdery Mildew,Soybean,Glycine,A parasitic infection,Rotate crops,Yellowing leaves,Australia,Low,Use certified seeds
+808,Powdery Mildew,Potato,Solanum,A fungal disease,Maintain good hygiene,Yellowing leaves,Asia,Medium,Use certified seeds
+809,Late Blight,Potato,Solanum,A fungal disease,Use resistant varieties,Black spots on leaves,Africa,High,Use mulch
+810,Late Blight,Soybean,Solanum,A fungal disease,Maintain good hygiene,Reddish pustules,Africa,Low,Maintain field hygiene
+811,Anthracnose,Soybean,Triticum,A parasitic infection,Apply neem oil,Reddish pustules,America,Low,Use mulch
+812,Anthracnose,Wheat,Glycine,A parasitic infection,Maintain good hygiene,Leaf curling,America,High,Use certified seeds
+813,Anthracnose,Soybean,Solanum,A parasitic infection,Use fungicides,Yellowing leaves,Europe,High,Use mulch
+814,Anthracnose,Corn,Triticum,A parasitic infection,Apply neem oil,White powder on leaves,America,Medium,Crop rotation
+815,Powdery Mildew,Tomato,Glycine,A fungal disease,Use fungicides,Reddish pustules,Europe,Medium,Crop rotation
+816,Rust,Wheat,Solanum,A bacterial infection,Maintain good hygiene,Reddish pustules,America,High,Crop rotation
+817,Late Blight,Wheat,Solanum,Caused by nematodes,Rotate crops,White powder on leaves,Africa,Medium,Maintain field hygiene
+818,Late Blight,Potato,Zea,Caused by nematodes,Use fungicides,Black spots on leaves,Africa,Medium,Crop rotation
+819,Leaf Spot,Wheat,Glycine,A fungal disease,Rotate crops,Leaf curling,Asia,High,Avoid overhead irrigation
+820,Rust,Wheat,Lycopersicon,A viral infection,Apply neem oil,Reddish pustules,Africa,High,Maintain field hygiene
+821,Rust,Tomato,Solanum,Caused by nematodes,Maintain good hygiene,Reddish pustules,Africa,Low,Use mulch
+822,Late Blight,Corn,Solanum,A parasitic infection,Rotate crops,Leaf curling,Europe,High,Use mulch
+823,Rust,Tomato,Solanum,A viral infection,Use fungicides,Leaf curling,Asia,Medium,Avoid overhead irrigation
+824,Leaf Spot,Corn,Zea,A bacterial infection,Use resistant varieties,Reddish pustules,Africa,High,Crop rotation
+825,Powdery Mildew,Potato,Zea,A viral infection,Apply neem oil,Leaf curling,Africa,Low,Use mulch
+826,Anthracnose,Tomato,Zea,A bacterial infection,Apply neem oil,Leaf curling,Australia,High,Use mulch
+827,Leaf Spot,Tomato,Glycine,A viral infection,Rotate crops,White powder on leaves,Africa,High,Use mulch
+828,Anthracnose,Tomato,Triticum,Caused by nematodes,Apply neem oil,Leaf curling,Australia,Medium,Maintain field hygiene
+829,Late Blight,Soybean,Glycine,A parasitic infection,Maintain good hygiene,White powder on leaves,America,Low,Use mulch
+830,Powdery Mildew,Soybean,Triticum,A bacterial infection,Apply neem oil,Yellowing leaves,America,Medium,Avoid overhead irrigation
+831,Leaf Spot,Tomato,Lycopersicon,A bacterial infection,Maintain good hygiene,Leaf curling,Africa,Low,Maintain field hygiene
+832,Rust,Wheat,Glycine,A viral infection,Apply neem oil,White powder on leaves,Asia,Medium,Maintain field hygiene
+833,Powdery Mildew,Potato,Solanum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Africa,Medium,Use mulch
+834,Leaf Spot,Wheat,Lycopersicon,A fungal disease,Use fungicides,Leaf curling,America,Medium,Use certified seeds
+835,Powdery Mildew,Potato,Solanum,A bacterial infection,Use fungicides,Leaf curling,Australia,Low,Avoid overhead irrigation
+836,Late Blight,Potato,Triticum,A parasitic infection,Apply neem oil,Black spots on leaves,Australia,Medium,Avoid overhead irrigation
+837,Rust,Soybean,Zea,A fungal disease,Apply neem oil,Reddish pustules,America,Low,Avoid overhead irrigation
+838,Anthracnose,Potato,Triticum,A bacterial infection,Apply neem oil,Black spots on leaves,Africa,Medium,Maintain field hygiene
+839,Anthracnose,Tomato,Glycine,A parasitic infection,Maintain good hygiene,Leaf curling,America,Low,Maintain field hygiene
+840,Anthracnose,Tomato,Lycopersicon,A bacterial infection,Use resistant varieties,Black spots on leaves,America,Low,Maintain field hygiene
+841,Leaf Spot,Potato,Lycopersicon,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,Medium,Maintain field hygiene
+842,Powdery Mildew,Soybean,Lycopersicon,A parasitic infection,Apply neem oil,Leaf curling,Australia,High,Maintain field hygiene
+843,Rust,Wheat,Triticum,A viral infection,Rotate crops,Reddish pustules,America,Low,Use certified seeds
+844,Rust,Soybean,Glycine,A viral infection,Apply neem oil,Yellowing leaves,Australia,High,Avoid overhead irrigation
+845,Leaf Spot,Soybean,Zea,A fungal disease,Use resistant varieties,Leaf curling,Africa,Medium,Avoid overhead irrigation
+846,Rust,Wheat,Lycopersicon,Caused by nematodes,Use fungicides,Leaf curling,Africa,Medium,Use mulch
+847,Rust,Tomato,Zea,A fungal disease,Rotate crops,White powder on leaves,Europe,Low,Avoid overhead irrigation
+848,Powdery Mildew,Corn,Lycopersicon,A viral infection,Rotate crops,Yellowing leaves,America,Low,Use certified seeds
+849,Powdery Mildew,Soybean,Lycopersicon,A parasitic infection,Rotate crops,Leaf curling,Asia,Medium,Maintain field hygiene
+850,Powdery Mildew,Tomato,Triticum,Caused by nematodes,Use fungicides,Reddish pustules,Africa,Low,Use certified seeds
+851,Leaf Spot,Potato,Solanum,A bacterial infection,Maintain good hygiene,Yellowing leaves,Australia,Low,Maintain field hygiene
+852,Leaf Spot,Soybean,Lycopersicon,A bacterial infection,Maintain good hygiene,White powder on leaves,America,High,Use mulch
+853,Leaf Spot,Soybean,Solanum,A parasitic infection,Use fungicides,Yellowing leaves,Asia,Low,Maintain field hygiene
+854,Rust,Potato,Triticum,A viral infection,Rotate crops,White powder on leaves,Asia,High,Crop rotation
+855,Anthracnose,Corn,Lycopersicon,A fungal disease,Use resistant varieties,Leaf curling,Asia,High,Crop rotation
+856,Rust,Corn,Glycine,A viral infection,Use fungicides,Leaf curling,Asia,Low,Maintain field hygiene
+857,Powdery Mildew,Wheat,Lycopersicon,A parasitic infection,Rotate crops,Yellowing leaves,Africa,Medium,Crop rotation
+858,Anthracnose,Potato,Lycopersicon,A viral infection,Rotate crops,Reddish pustules,Europe,Low,Avoid overhead irrigation
+859,Late Blight,Tomato,Glycine,A fungal disease,Apply neem oil,Black spots on leaves,Australia,High,Avoid overhead irrigation
+860,Anthracnose,Tomato,Glycine,A fungal disease,Use fungicides,Yellowing leaves,Africa,Low,Use certified seeds
+861,Powdery Mildew,Corn,Lycopersicon,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Europe,High,Avoid overhead irrigation
+862,Powdery Mildew,Wheat,Zea,Caused by nematodes,Rotate crops,Leaf curling,Africa,Low,Use mulch
+863,Powdery Mildew,Wheat,Triticum,Caused by nematodes,Maintain good hygiene,Reddish pustules,Australia,Low,Use mulch
+864,Powdery Mildew,Tomato,Zea,A viral infection,Maintain good hygiene,Yellowing leaves,Africa,High,Use certified seeds
+865,Late Blight,Wheat,Lycopersicon,A bacterial infection,Apply neem oil,Black spots on leaves,Australia,Medium,Crop rotation
+866,Anthracnose,Corn,Solanum,A viral infection,Apply neem oil,Yellowing leaves,America,Medium,Use mulch
+867,Late Blight,Corn,Glycine,A fungal disease,Use fungicides,Yellowing leaves,Africa,Low,Avoid overhead irrigation
+868,Rust,Wheat,Glycine,Caused by nematodes,Use fungicides,Reddish pustules,America,High,Avoid overhead irrigation
+869,Anthracnose,Corn,Solanum,A parasitic infection,Rotate crops,Black spots on leaves,Africa,Low,Maintain field hygiene
+870,Rust,Corn,Triticum,A bacterial infection,Use resistant varieties,Leaf curling,America,High,Use certified seeds
+871,Rust,Wheat,Triticum,A viral infection,Rotate crops,Leaf curling,America,High,Crop rotation
+872,Rust,Corn,Lycopersicon,A bacterial infection,Maintain good hygiene,Leaf curling,America,Low,Maintain field hygiene
+873,Powdery Mildew,Potato,Lycopersicon,A parasitic infection,Use fungicides,White powder on leaves,Asia,Low,Avoid overhead irrigation
+874,Anthracnose,Corn,Glycine,Caused by nematodes,Use fungicides,White powder on leaves,Europe,Low,Use certified seeds
+875,Leaf Spot,Soybean,Solanum,Caused by nematodes,Use fungicides,Reddish pustules,Europe,High,Use certified seeds
+876,Anthracnose,Tomato,Solanum,A fungal disease,Use fungicides,Black spots on leaves,America,High,Use mulch
+877,Powdery Mildew,Potato,Zea,A viral infection,Use resistant varieties,Black spots on leaves,Asia,Medium,Avoid overhead irrigation
+878,Anthracnose,Wheat,Triticum,A fungal disease,Rotate crops,White powder on leaves,Asia,Low,Avoid overhead irrigation
+879,Powdery Mildew,Tomato,Triticum,A bacterial infection,Use fungicides,White powder on leaves,Australia,Medium,Maintain field hygiene
+880,Anthracnose,Soybean,Lycopersicon,A parasitic infection,Use resistant varieties,White powder on leaves,Asia,High,Avoid overhead irrigation
+881,Anthracnose,Tomato,Lycopersicon,A parasitic infection,Apply neem oil,Reddish pustules,America,High,Avoid overhead irrigation
+882,Rust,Corn,Triticum,A fungal disease,Use resistant varieties,Yellowing leaves,Australia,High,Crop rotation
+883,Late Blight,Tomato,Zea,A fungal disease,Use fungicides,Yellowing leaves,Europe,Low,Use certified seeds
+884,Anthracnose,Wheat,Lycopersicon,A bacterial infection,Use fungicides,Yellowing leaves,Europe,High,Crop rotation
+885,Leaf Spot,Corn,Lycopersicon,Caused by nematodes,Use resistant varieties,Black spots on leaves,Africa,High,Avoid overhead irrigation
+886,Late Blight,Corn,Zea,A parasitic infection,Use fungicides,Yellowing leaves,America,Low,Maintain field hygiene
+887,Leaf Spot,Soybean,Glycine,A fungal disease,Use fungicides,Reddish pustules,Africa,High,Use mulch
+888,Anthracnose,Tomato,Triticum,A parasitic infection,Use resistant varieties,White powder on leaves,Europe,Low,Crop rotation
+889,Powdery Mildew,Soybean,Solanum,Caused by nematodes,Rotate crops,Black spots on leaves,Asia,Low,Crop rotation
+890,Anthracnose,Corn,Solanum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Australia,Low,Maintain field hygiene
+891,Rust,Corn,Solanum,Caused by nematodes,Rotate crops,White powder on leaves,Africa,Low,Avoid overhead irrigation
+892,Powdery Mildew,Soybean,Solanum,Caused by nematodes,Use resistant varieties,Black spots on leaves,America,Low,Use mulch
+893,Leaf Spot,Corn,Solanum,A viral infection,Use fungicides,Leaf curling,Europe,Low,Crop rotation
+894,Anthracnose,Tomato,Glycine,A bacterial infection,Rotate crops,Reddish pustules,Europe,High,Maintain field hygiene
+895,Anthracnose,Potato,Triticum,A parasitic infection,Use resistant varieties,Reddish pustules,Australia,High,Crop rotation
+896,Powdery Mildew,Soybean,Lycopersicon,Caused by nematodes,Use resistant varieties,Reddish pustules,Europe,Low,Avoid overhead irrigation
+897,Anthracnose,Wheat,Solanum,A parasitic infection,Apply neem oil,Reddish pustules,Africa,Low,Avoid overhead irrigation
+898,Late Blight,Potato,Zea,A fungal disease,Use fungicides,Reddish pustules,Europe,High,Crop rotation
+899,Leaf Spot,Wheat,Solanum,A bacterial infection,Apply neem oil,Yellowing leaves,Europe,Medium,Use mulch
+900,Anthracnose,Corn,Glycine,A bacterial infection,Maintain good hygiene,Yellowing leaves,Australia,Low,Avoid overhead irrigation
+901,Anthracnose,Potato,Triticum,A fungal disease,Use resistant varieties,Leaf curling,Asia,Medium,Use certified seeds
+902,Powdery Mildew,Corn,Zea,A fungal disease,Use resistant varieties,Black spots on leaves,America,Low,Use mulch
+903,Rust,Corn,Solanum,A parasitic infection,Use fungicides,Yellowing leaves,America,Medium,Avoid overhead irrigation
+904,Leaf Spot,Soybean,Glycine,A viral infection,Apply neem oil,Reddish pustules,Africa,Low,Use mulch
+905,Late Blight,Wheat,Solanum,A parasitic infection,Apply neem oil,White powder on leaves,America,High,Use certified seeds
+906,Late Blight,Tomato,Solanum,A parasitic infection,Use fungicides,White powder on leaves,Australia,High,Crop rotation
+907,Powdery Mildew,Soybean,Zea,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,High,Use certified seeds
+908,Late Blight,Soybean,Glycine,A parasitic infection,Use fungicides,Leaf curling,Europe,Medium,Use mulch
+909,Rust,Wheat,Triticum,A bacterial infection,Apply neem oil,Leaf curling,Europe,High,Maintain field hygiene
+910,Anthracnose,Soybean,Glycine,A viral infection,Use fungicides,Yellowing leaves,Africa,High,Maintain field hygiene
+911,Leaf Spot,Wheat,Triticum,A fungal disease,Maintain good hygiene,Leaf curling,Asia,High,Use mulch
+912,Anthracnose,Soybean,Triticum,A bacterial infection,Use fungicides,Leaf curling,Europe,High,Maintain field hygiene
+913,Powdery Mildew,Potato,Triticum,A fungal disease,Use fungicides,Reddish pustules,Australia,High,Avoid overhead irrigation
+914,Anthracnose,Wheat,Triticum,Caused by nematodes,Apply neem oil,White powder on leaves,Europe,Low,Use mulch
+915,Rust,Tomato,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,Africa,Low,Avoid overhead irrigation
+916,Late Blight,Soybean,Zea,Caused by nematodes,Use fungicides,Leaf curling,Africa,High,Use mulch
+917,Leaf Spot,Potato,Triticum,A fungal disease,Use fungicides,Leaf curling,Europe,Low,Use certified seeds
+918,Rust,Tomato,Lycopersicon,A parasitic infection,Apply neem oil,White powder on leaves,Asia,High,Use mulch
+919,Powdery Mildew,Soybean,Triticum,A parasitic infection,Use resistant varieties,Black spots on leaves,America,High,Use mulch
+920,Leaf Spot,Soybean,Lycopersicon,Caused by nematodes,Rotate crops,Yellowing leaves,Australia,Medium,Crop rotation
+921,Anthracnose,Corn,Solanum,A fungal disease,Maintain good hygiene,Leaf curling,Asia,Low,Maintain field hygiene
+922,Powdery Mildew,Soybean,Triticum,A viral infection,Use fungicides,Yellowing leaves,Africa,Low,Maintain field hygiene
+923,Anthracnose,Tomato,Lycopersicon,Caused by nematodes,Apply neem oil,Yellowing leaves,Australia,Medium,Use certified seeds
+924,Rust,Tomato,Triticum,A bacterial infection,Rotate crops,Black spots on leaves,Australia,Medium,Use certified seeds
+925,Rust,Potato,Glycine,A bacterial infection,Use fungicides,Leaf curling,America,High,Use certified seeds
+926,Powdery Mildew,Corn,Zea,A bacterial infection,Apply neem oil,Yellowing leaves,Africa,High,Crop rotation
+927,Late Blight,Potato,Solanum,A fungal disease,Apply neem oil,Leaf curling,America,High,Use certified seeds
+928,Powdery Mildew,Potato,Zea,A bacterial infection,Use resistant varieties,Leaf curling,America,High,Use mulch
+929,Late Blight,Soybean,Zea,A bacterial infection,Use fungicides,Reddish pustules,Asia,High,Maintain field hygiene
+930,Powdery Mildew,Potato,Glycine,A parasitic infection,Rotate crops,Black spots on leaves,Africa,Medium,Avoid overhead irrigation
+931,Powdery Mildew,Wheat,Lycopersicon,A parasitic infection,Maintain good hygiene,Yellowing leaves,Africa,High,Use mulch
+932,Leaf Spot,Corn,Solanum,A parasitic infection,Use resistant varieties,Yellowing leaves,Asia,Medium,Use mulch
+933,Late Blight,Soybean,Zea,A fungal disease,Maintain good hygiene,Leaf curling,Africa,Medium,Crop rotation
+934,Late Blight,Wheat,Triticum,A bacterial infection,Use fungicides,Yellowing leaves,Asia,Medium,Crop rotation
+935,Rust,Tomato,Lycopersicon,Caused by nematodes,Rotate crops,Reddish pustules,Africa,High,Crop rotation
+936,Anthracnose,Corn,Solanum,A bacterial infection,Rotate crops,Reddish pustules,Europe,Medium,Maintain field hygiene
+937,Rust,Tomato,Zea,A parasitic infection,Rotate crops,White powder on leaves,Africa,Low,Use certified seeds
+938,Late Blight,Tomato,Zea,A bacterial infection,Apply neem oil,Yellowing leaves,Europe,High,Maintain field hygiene
+939,Leaf Spot,Soybean,Lycopersicon,A parasitic infection,Rotate crops,Yellowing leaves,America,Medium,Maintain field hygiene
+940,Late Blight,Wheat,Triticum,A bacterial infection,Apply neem oil,Black spots on leaves,America,Low,Maintain field hygiene
+941,Anthracnose,Corn,Zea,A fungal disease,Rotate crops,Leaf curling,America,High,Maintain field hygiene
+942,Anthracnose,Soybean,Glycine,A viral infection,Maintain good hygiene,Black spots on leaves,Australia,Medium,Avoid overhead irrigation
+943,Powdery Mildew,Potato,Glycine,A viral infection,Maintain good hygiene,Reddish pustules,America,Low,Use certified seeds
+944,Leaf Spot,Corn,Lycopersicon,A bacterial infection,Rotate crops,Yellowing leaves,Europe,High,Maintain field hygiene
+945,Rust,Soybean,Solanum,Caused by nematodes,Rotate crops,Yellowing leaves,Asia,High,Maintain field hygiene
+946,Leaf Spot,Corn,Lycopersicon,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,Low,Maintain field hygiene
+947,Powdery Mildew,Corn,Lycopersicon,A bacterial infection,Apply neem oil,Black spots on leaves,Australia,Low,Maintain field hygiene
+948,Late Blight,Soybean,Solanum,A viral infection,Apply neem oil,White powder on leaves,Africa,Low,Use certified seeds
+949,Anthracnose,Tomato,Solanum,A bacterial infection,Use fungicides,White powder on leaves,America,High,Avoid overhead irrigation
+950,Late Blight,Tomato,Solanum,A bacterial infection,Apply neem oil,White powder on leaves,Africa,High,Use mulch
+951,Late Blight,Soybean,Triticum,A parasitic infection,Apply neem oil,Black spots on leaves,Asia,High,Use mulch
+952,Powdery Mildew,Corn,Zea,A bacterial infection,Use fungicides,Leaf curling,Europe,Medium,Use certified seeds
+953,Rust,Tomato,Lycopersicon,A parasitic infection,Rotate crops,Black spots on leaves,Australia,High,Crop rotation
+954,Late Blight,Wheat,Glycine,A fungal disease,Use resistant varieties,Reddish pustules,Australia,Low,Crop rotation
+955,Anthracnose,Potato,Solanum,Caused by nematodes,Use fungicides,Yellowing leaves,Australia,High,Crop rotation
+956,Anthracnose,Potato,Solanum,A bacterial infection,Apply neem oil,Leaf curling,America,Medium,Avoid overhead irrigation
+957,Rust,Wheat,Solanum,A parasitic infection,Use fungicides,Yellowing leaves,Australia,Low,Avoid overhead irrigation
+958,Rust,Wheat,Zea,A parasitic infection,Maintain good hygiene,Leaf curling,Europe,Low,Crop rotation
+959,Powdery Mildew,Wheat,Glycine,A bacterial infection,Maintain good hygiene,Leaf curling,Europe,Medium,Crop rotation
+960,Leaf Spot,Corn,Lycopersicon,A viral infection,Rotate crops,Reddish pustules,Australia,Medium,Maintain field hygiene
+961,Anthracnose,Tomato,Zea,A viral infection,Apply neem oil,Reddish pustules,Asia,Medium,Maintain field hygiene
+962,Late Blight,Wheat,Triticum,A bacterial infection,Maintain good hygiene,Reddish pustules,Asia,High,Crop rotation
+963,Powdery Mildew,Soybean,Glycine,A bacterial infection,Use fungicides,Yellowing leaves,Australia,Medium,Avoid overhead irrigation
+964,Rust,Potato,Glycine,A viral infection,Apply neem oil,Reddish pustules,America,Medium,Avoid overhead irrigation
+965,Late Blight,Potato,Triticum,A bacterial infection,Rotate crops,Leaf curling,Asia,High,Crop rotation
+966,Leaf Spot,Wheat,Lycopersicon,A bacterial infection,Apply neem oil,Yellowing leaves,Australia,Medium,Use certified seeds
+967,Rust,Tomato,Glycine,A viral infection,Apply neem oil,Leaf curling,Europe,High,Maintain field hygiene
+968,Leaf Spot,Wheat,Solanum,A parasitic infection,Use fungicides,White powder on leaves,Africa,Low,Use certified seeds
+969,Leaf Spot,Soybean,Lycopersicon,A fungal disease,Apply neem oil,Yellowing leaves,Asia,Low,Avoid overhead irrigation
+970,Anthracnose,Wheat,Zea,A bacterial infection,Use fungicides,Leaf curling,America,Low,Use certified seeds
+971,Anthracnose,Corn,Triticum,A viral infection,Use fungicides,Leaf curling,Africa,High,Use mulch
+972,Leaf Spot,Wheat,Solanum,A bacterial infection,Apply neem oil,Yellowing leaves,Africa,Low,Use mulch
+973,Anthracnose,Corn,Solanum,A bacterial infection,Rotate crops,White powder on leaves,America,High,Avoid overhead irrigation
+974,Rust,Tomato,Solanum,A parasitic infection,Rotate crops,Yellowing leaves,America,Medium,Avoid overhead irrigation
+975,Leaf Spot,Tomato,Zea,A fungal disease,Use resistant varieties,Reddish pustules,Australia,High,Use certified seeds
+976,Leaf Spot,Soybean,Solanum,A bacterial infection,Maintain good hygiene,Reddish pustules,Europe,Medium,Crop rotation
+977,Powdery Mildew,Tomato,Glycine,A fungal disease,Apply neem oil,Reddish pustules,America,Low,Avoid overhead irrigation
+978,Powdery Mildew,Corn,Solanum,A viral infection,Apply neem oil,Black spots on leaves,America,Medium,Maintain field hygiene
+979,Powdery Mildew,Tomato,Lycopersicon,A viral infection,Use fungicides,White powder on leaves,Africa,Medium,Crop rotation
+980,Powdery Mildew,Corn,Glycine,Caused by nematodes,Rotate crops,Yellowing leaves,Asia,Medium,Use mulch
+981,Late Blight,Soybean,Solanum,A parasitic infection,Apply neem oil,Black spots on leaves,Asia,High,Crop rotation
+982,Powdery Mildew,Corn,Zea,A viral infection,Rotate crops,White powder on leaves,America,High,Use certified seeds
+983,Rust,Wheat,Solanum,A bacterial infection,Use resistant varieties,Leaf curling,Europe,Low,Avoid overhead irrigation
+984,Late Blight,Tomato,Zea,A bacterial infection,Apply neem oil,Yellowing leaves,America,Medium,Maintain field hygiene
+985,Rust,Potato,Glycine,A viral infection,Use fungicides,Reddish pustules,Europe,High,Use certified seeds
+986,Powdery Mildew,Wheat,Glycine,Caused by nematodes,Rotate crops,White powder on leaves,Africa,Low,Avoid overhead irrigation
+987,Leaf Spot,Corn,Glycine,A parasitic infection,Maintain good hygiene,Leaf curling,Australia,High,Crop rotation
+988,Late Blight,Wheat,Glycine,Caused by nematodes,Rotate crops,White powder on leaves,Africa,High,Use mulch
+989,Leaf Spot,Wheat,Zea,A fungal disease,Rotate crops,Leaf curling,Australia,Low,Avoid overhead irrigation
+990,Rust,Wheat,Lycopersicon,A parasitic infection,Maintain good hygiene,White powder on leaves,Africa,Low,Avoid overhead irrigation
+991,Rust,Wheat,Zea,A parasitic infection,Rotate crops,Reddish pustules,America,High,Use mulch
+992,Late Blight,Corn,Zea,A bacterial infection,Use resistant varieties,Black spots on leaves,America,Medium,Use certified seeds
+993,Rust,Tomato,Solanum,A parasitic infection,Apply neem oil,Leaf curling,Europe,Low,Avoid overhead irrigation
+994,Late Blight,Tomato,Solanum,A parasitic infection,Apply neem oil,Yellowing leaves,America,Low,Crop rotation
+995,Rust,Wheat,Zea,A bacterial infection,Apply neem oil,Yellowing leaves,Asia,Low,Maintain field hygiene
+996,Leaf Spot,Potato,Triticum,A parasitic infection,Rotate crops,White powder on leaves,America,Low,Avoid overhead irrigation
+997,Anthracnose,Tomato,Lycopersicon,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Asia,High,Maintain field hygiene
+998,Powdery Mildew,Corn,Glycine,A parasitic infection,Rotate crops,Leaf curling,Africa,High,Use mulch
+999,Powdery Mildew,Corn,Glycine,A viral infection,Apply neem oil,Black spots on leaves,Africa,High,Avoid overhead irrigation
+1000,Anthracnose,Tomato,Glycine,A parasitic infection,Maintain good hygiene,White powder on leaves,Australia,Low,Avoid overhead irrigation
+1001,Anthracnose,Corn,Solanum,A parasitic infection,Apply neem oil,Leaf curling,Australia,High,Maintain field hygiene
+1002,Late Blight,Corn,Solanum,A fungal disease,Apply neem oil,Yellowing leaves,America,Medium,Use mulch
+1003,Rust,Soybean,Lycopersicon,A fungal disease,Use resistant varieties,Yellowing leaves,America,Medium,Crop rotation
+1004,Leaf Spot,Corn,Lycopersicon,Caused by nematodes,Use resistant varieties,Leaf curling,Australia,High,Avoid overhead irrigation
+1005,Powdery Mildew,Tomato,Zea,A fungal disease,Rotate crops,Leaf curling,America,High,Crop rotation
+1006,Anthracnose,Tomato,Solanum,Caused by nematodes,Use resistant varieties,Leaf curling,Asia,High,Use certified seeds
+1007,Anthracnose,Potato,Glycine,A fungal disease,Maintain good hygiene,Yellowing leaves,Africa,Low,Avoid overhead irrigation
+1008,Anthracnose,Wheat,Zea,A fungal disease,Use fungicides,Leaf curling,Europe,Medium,Maintain field hygiene
+1009,Rust,Tomato,Triticum,A bacterial infection,Maintain good hygiene,Leaf curling,Europe,Low,Use mulch
+1010,Leaf Spot,Corn,Triticum,Caused by nematodes,Apply neem oil,Black spots on leaves,Africa,Low,Crop rotation
+1011,Anthracnose,Potato,Lycopersicon,A parasitic infection,Apply neem oil,White powder on leaves,Europe,Medium,Use certified seeds
+1012,Leaf Spot,Soybean,Solanum,A fungal disease,Use resistant varieties,Black spots on leaves,Europe,High,Avoid overhead irrigation
+1013,Powdery Mildew,Potato,Solanum,Caused by nematodes,Apply neem oil,White powder on leaves,Asia,Medium,Use certified seeds
+1014,Late Blight,Corn,Triticum,A parasitic infection,Use fungicides,White powder on leaves,Africa,High,Crop rotation
+1015,Late Blight,Tomato,Lycopersicon,A fungal disease,Rotate crops,White powder on leaves,Australia,Medium,Maintain field hygiene
+1016,Powdery Mildew,Potato,Lycopersicon,A viral infection,Rotate crops,Yellowing leaves,Africa,High,Maintain field hygiene
+1017,Late Blight,Corn,Solanum,A parasitic infection,Maintain good hygiene,Yellowing leaves,America,High,Avoid overhead irrigation
+1018,Anthracnose,Soybean,Solanum,A fungal disease,Rotate crops,Leaf curling,America,Low,Crop rotation
+1019,Rust,Potato,Triticum,A fungal disease,Use resistant varieties,Black spots on leaves,Africa,High,Avoid overhead irrigation
+1020,Late Blight,Corn,Glycine,A parasitic infection,Use resistant varieties,Black spots on leaves,Europe,High,Use mulch
+1021,Powdery Mildew,Wheat,Lycopersicon,Caused by nematodes,Apply neem oil,Leaf curling,Asia,Medium,Use certified seeds
+1022,Rust,Tomato,Solanum,A bacterial infection,Use resistant varieties,Black spots on leaves,America,High,Avoid overhead irrigation
+1023,Powdery Mildew,Corn,Lycopersicon,A fungal disease,Use resistant varieties,Leaf curling,Australia,High,Use certified seeds
+1024,Anthracnose,Wheat,Glycine,Caused by nematodes,Rotate crops,Reddish pustules,Asia,High,Use mulch
+1025,Powdery Mildew,Tomato,Triticum,A viral infection,Use fungicides,Black spots on leaves,Australia,High,Avoid overhead irrigation
+1026,Anthracnose,Tomato,Glycine,A parasitic infection,Apply neem oil,Yellowing leaves,Europe,High,Crop rotation
+1027,Late Blight,Tomato,Triticum,Caused by nematodes,Maintain good hygiene,Reddish pustules,Australia,High,Maintain field hygiene
+1028,Rust,Wheat,Lycopersicon,Caused by nematodes,Rotate crops,Leaf curling,Australia,Low,Crop rotation
+1029,Leaf Spot,Potato,Zea,Caused by nematodes,Apply neem oil,Yellowing leaves,America,Low,Use mulch
+1030,Rust,Wheat,Lycopersicon,A bacterial infection,Rotate crops,Black spots on leaves,Europe,Medium,Avoid overhead irrigation
+1031,Leaf Spot,Wheat,Zea,A bacterial infection,Use resistant varieties,White powder on leaves,Australia,Low,Use certified seeds
+1032,Late Blight,Corn,Lycopersicon,A viral infection,Maintain good hygiene,Leaf curling,Asia,Medium,Use mulch
+1033,Powdery Mildew,Corn,Glycine,A fungal disease,Maintain good hygiene,Black spots on leaves,Africa,Medium,Avoid overhead irrigation
+1034,Anthracnose,Soybean,Triticum,A bacterial infection,Use fungicides,Black spots on leaves,Africa,High,Maintain field hygiene
+1035,Anthracnose,Wheat,Lycopersicon,A bacterial infection,Apply neem oil,Leaf curling,America,Medium,Maintain field hygiene
+1036,Anthracnose,Wheat,Solanum,A bacterial infection,Maintain good hygiene,Leaf curling,Australia,High,Use mulch
+1037,Late Blight,Soybean,Triticum,A bacterial infection,Rotate crops,Leaf curling,Asia,Medium,Use certified seeds
+1038,Late Blight,Wheat,Glycine,A viral infection,Apply neem oil,Black spots on leaves,Asia,Low,Use certified seeds
+1039,Leaf Spot,Wheat,Lycopersicon,Caused by nematodes,Use resistant varieties,Reddish pustules,Australia,High,Crop rotation
+1040,Rust,Soybean,Triticum,A parasitic infection,Use fungicides,White powder on leaves,Australia,Low,Maintain field hygiene
+1041,Rust,Soybean,Solanum,A parasitic infection,Use resistant varieties,Black spots on leaves,Europe,High,Use mulch
+1042,Powdery Mildew,Soybean,Triticum,Caused by nematodes,Maintain good hygiene,Leaf curling,Africa,High,Avoid overhead irrigation
+1043,Leaf Spot,Tomato,Lycopersicon,A fungal disease,Use resistant varieties,Reddish pustules,Australia,High,Use certified seeds
+1044,Late Blight,Corn,Solanum,A viral infection,Rotate crops,White powder on leaves,Australia,Low,Maintain field hygiene
+1045,Late Blight,Soybean,Lycopersicon,A viral infection,Rotate crops,Reddish pustules,Asia,Low,Maintain field hygiene
+1046,Anthracnose,Tomato,Zea,A bacterial infection,Apply neem oil,Leaf curling,America,High,Use mulch
+1047,Leaf Spot,Corn,Triticum,Caused by nematodes,Use fungicides,White powder on leaves,Africa,Medium,Crop rotation
+1048,Leaf Spot,Soybean,Solanum,A bacterial infection,Use fungicides,Reddish pustules,Africa,Medium,Use certified seeds
+1049,Late Blight,Wheat,Lycopersicon,A parasitic infection,Rotate crops,Reddish pustules,Africa,Medium,Use certified seeds
+1050,Leaf Spot,Wheat,Zea,A parasitic infection,Use resistant varieties,Reddish pustules,Europe,High,Maintain field hygiene
+1051,Anthracnose,Corn,Lycopersicon,Caused by nematodes,Use resistant varieties,White powder on leaves,Africa,High,Crop rotation
+1052,Anthracnose,Potato,Lycopersicon,A parasitic infection,Apply neem oil,Leaf curling,Asia,High,Crop rotation
+1053,Late Blight,Corn,Triticum,A viral infection,Maintain good hygiene,White powder on leaves,Australia,High,Crop rotation
+1054,Late Blight,Tomato,Triticum,A bacterial infection,Maintain good hygiene,Reddish pustules,Asia,Low,Crop rotation
+1055,Leaf Spot,Wheat,Zea,A viral infection,Apply neem oil,Reddish pustules,Europe,Low,Avoid overhead irrigation
+1056,Leaf Spot,Wheat,Triticum,Caused by nematodes,Maintain good hygiene,Leaf curling,Europe,Low,Crop rotation
+1057,Rust,Soybean,Solanum,Caused by nematodes,Rotate crops,Yellowing leaves,Asia,High,Use mulch
+1058,Leaf Spot,Tomato,Zea,A parasitic infection,Use fungicides,Leaf curling,America,Medium,Crop rotation
+1059,Leaf Spot,Potato,Triticum,A fungal disease,Use fungicides,White powder on leaves,America,Low,Avoid overhead irrigation
+1060,Powdery Mildew,Tomato,Glycine,A fungal disease,Maintain good hygiene,Reddish pustules,Europe,High,Use certified seeds
+1061,Late Blight,Tomato,Solanum,Caused by nematodes,Maintain good hygiene,Black spots on leaves,America,High,Maintain field hygiene
+1062,Leaf Spot,Tomato,Lycopersicon,A viral infection,Maintain good hygiene,Reddish pustules,Asia,High,Crop rotation
+1063,Powdery Mildew,Tomato,Solanum,A bacterial infection,Use fungicides,Yellowing leaves,Europe,Low,Crop rotation
+1064,Leaf Spot,Potato,Solanum,A fungal disease,Maintain good hygiene,Yellowing leaves,Africa,High,Use certified seeds
+1065,Late Blight,Tomato,Solanum,A fungal disease,Use resistant varieties,Leaf curling,America,Low,Maintain field hygiene
+1066,Rust,Potato,Glycine,A viral infection,Use resistant varieties,Black spots on leaves,America,Medium,Avoid overhead irrigation
+1067,Anthracnose,Corn,Solanum,Caused by nematodes,Rotate crops,White powder on leaves,Asia,High,Avoid overhead irrigation
+1068,Late Blight,Tomato,Glycine,A parasitic infection,Apply neem oil,Leaf curling,Asia,Low,Crop rotation
+1069,Late Blight,Soybean,Glycine,A viral infection,Rotate crops,Reddish pustules,Asia,Medium,Use certified seeds
+1070,Powdery Mildew,Potato,Triticum,Caused by nematodes,Use fungicides,Black spots on leaves,America,High,Avoid overhead irrigation
+1071,Powdery Mildew,Potato,Glycine,A bacterial infection,Use resistant varieties,Reddish pustules,America,Low,Maintain field hygiene
+1072,Powdery Mildew,Tomato,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Europe,High,Crop rotation
+1073,Rust,Soybean,Zea,A parasitic infection,Use resistant varieties,Black spots on leaves,America,High,Avoid overhead irrigation
+1074,Powdery Mildew,Soybean,Glycine,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Europe,High,Use mulch
+1075,Late Blight,Tomato,Solanum,Caused by nematodes,Use fungicides,White powder on leaves,Asia,Medium,Crop rotation
+1076,Powdery Mildew,Soybean,Lycopersicon,A viral infection,Apply neem oil,Black spots on leaves,Africa,High,Crop rotation
+1077,Leaf Spot,Potato,Glycine,A parasitic infection,Rotate crops,Leaf curling,America,Medium,Crop rotation
+1078,Leaf Spot,Tomato,Glycine,A parasitic infection,Use fungicides,Yellowing leaves,Asia,Low,Use certified seeds
+1079,Anthracnose,Tomato,Triticum,A fungal disease,Rotate crops,Black spots on leaves,Africa,High,Crop rotation
+1080,Leaf Spot,Tomato,Triticum,A fungal disease,Rotate crops,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+1081,Anthracnose,Corn,Solanum,A bacterial infection,Rotate crops,Reddish pustules,Africa,Low,Use mulch
+1082,Leaf Spot,Tomato,Zea,A bacterial infection,Maintain good hygiene,Black spots on leaves,America,Low,Use mulch
+1083,Rust,Wheat,Glycine,A parasitic infection,Rotate crops,Yellowing leaves,Asia,Medium,Use certified seeds
+1084,Anthracnose,Wheat,Lycopersicon,Caused by nematodes,Use resistant varieties,White powder on leaves,America,Low,Avoid overhead irrigation
+1085,Leaf Spot,Potato,Glycine,A fungal disease,Apply neem oil,White powder on leaves,Europe,High,Use certified seeds
+1086,Anthracnose,Corn,Zea,A bacterial infection,Apply neem oil,Reddish pustules,Asia,High,Use certified seeds
+1087,Anthracnose,Corn,Zea,A parasitic infection,Use fungicides,Black spots on leaves,Africa,Low,Crop rotation
+1088,Leaf Spot,Soybean,Lycopersicon,Caused by nematodes,Use resistant varieties,Leaf curling,Asia,Low,Maintain field hygiene
+1089,Late Blight,Tomato,Solanum,A viral infection,Rotate crops,Black spots on leaves,Australia,High,Use certified seeds
+1090,Powdery Mildew,Wheat,Glycine,Caused by nematodes,Use resistant varieties,White powder on leaves,Australia,Low,Use certified seeds
+1091,Anthracnose,Corn,Glycine,A fungal disease,Rotate crops,Black spots on leaves,Europe,Medium,Use mulch
+1092,Anthracnose,Wheat,Triticum,Caused by nematodes,Rotate crops,Leaf curling,Asia,Low,Maintain field hygiene
+1093,Anthracnose,Wheat,Solanum,A fungal disease,Apply neem oil,Leaf curling,Asia,Low,Maintain field hygiene
+1094,Powdery Mildew,Tomato,Lycopersicon,A viral infection,Maintain good hygiene,White powder on leaves,Africa,Low,Use mulch
+1095,Anthracnose,Wheat,Glycine,Caused by nematodes,Use fungicides,Yellowing leaves,Africa,High,Use mulch
+1096,Anthracnose,Potato,Zea,A viral infection,Apply neem oil,White powder on leaves,Africa,High,Use certified seeds
+1097,Leaf Spot,Potato,Solanum,A fungal disease,Rotate crops,Leaf curling,Asia,Low,Maintain field hygiene
+1098,Late Blight,Corn,Zea,A fungal disease,Use fungicides,Leaf curling,Asia,High,Use certified seeds
+1099,Rust,Corn,Zea,A fungal disease,Rotate crops,Black spots on leaves,Australia,Low,Crop rotation
+1100,Rust,Soybean,Glycine,A parasitic infection,Apply neem oil,Reddish pustules,America,High,Avoid overhead irrigation
+1101,Powdery Mildew,Wheat,Lycopersicon,A fungal disease,Rotate crops,Leaf curling,Africa,High,Crop rotation
+1102,Rust,Corn,Lycopersicon,A bacterial infection,Use fungicides,Yellowing leaves,America,Medium,Use mulch
+1103,Late Blight,Tomato,Lycopersicon,Caused by nematodes,Rotate crops,White powder on leaves,America,Medium,Use certified seeds
+1104,Rust,Corn,Glycine,A parasitic infection,Apply neem oil,Leaf curling,Europe,Low,Use mulch
+1105,Late Blight,Potato,Triticum,A viral infection,Rotate crops,Black spots on leaves,Asia,Low,Crop rotation
+1106,Late Blight,Wheat,Lycopersicon,A viral infection,Use fungicides,Black spots on leaves,Asia,Low,Crop rotation
+1107,Leaf Spot,Potato,Zea,A bacterial infection,Use resistant varieties,Reddish pustules,Australia,Low,Maintain field hygiene
+1108,Rust,Corn,Zea,Caused by nematodes,Use resistant varieties,White powder on leaves,Asia,High,Maintain field hygiene
+1109,Anthracnose,Corn,Triticum,A bacterial infection,Maintain good hygiene,Leaf curling,Europe,High,Crop rotation
+1110,Powdery Mildew,Potato,Solanum,Caused by nematodes,Maintain good hygiene,Reddish pustules,Asia,High,Crop rotation
+1111,Anthracnose,Soybean,Glycine,A viral infection,Apply neem oil,Yellowing leaves,Africa,Low,Avoid overhead irrigation
+1112,Rust,Soybean,Glycine,A bacterial infection,Rotate crops,Leaf curling,Africa,Medium,Use mulch
+1113,Rust,Corn,Zea,A viral infection,Rotate crops,Reddish pustules,Australia,Medium,Avoid overhead irrigation
+1114,Anthracnose,Soybean,Lycopersicon,Caused by nematodes,Rotate crops,Yellowing leaves,Africa,Low,Maintain field hygiene
+1115,Leaf Spot,Potato,Lycopersicon,A bacterial infection,Apply neem oil,Black spots on leaves,Europe,Medium,Maintain field hygiene
+1116,Rust,Wheat,Triticum,A bacterial infection,Apply neem oil,White powder on leaves,Asia,Medium,Avoid overhead irrigation
+1117,Leaf Spot,Corn,Solanum,A parasitic infection,Rotate crops,White powder on leaves,America,Medium,Maintain field hygiene
+1118,Powdery Mildew,Tomato,Lycopersicon,A parasitic infection,Use fungicides,Yellowing leaves,Asia,Low,Avoid overhead irrigation
+1119,Rust,Soybean,Lycopersicon,Caused by nematodes,Apply neem oil,Leaf curling,Europe,High,Use certified seeds
+1120,Anthracnose,Soybean,Zea,Caused by nematodes,Maintain good hygiene,White powder on leaves,Asia,Medium,Crop rotation
+1121,Leaf Spot,Tomato,Lycopersicon,A bacterial infection,Use fungicides,White powder on leaves,Asia,High,Use mulch
+1122,Powdery Mildew,Tomato,Glycine,A parasitic infection,Use resistant varieties,Yellowing leaves,Africa,Low,Use mulch
+1123,Late Blight,Potato,Lycopersicon,Caused by nematodes,Rotate crops,Yellowing leaves,Europe,Low,Use mulch
+1124,Powdery Mildew,Potato,Lycopersicon,A bacterial infection,Maintain good hygiene,Black spots on leaves,Africa,High,Maintain field hygiene
+1125,Leaf Spot,Soybean,Solanum,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Australia,Low,Maintain field hygiene
+1126,Rust,Wheat,Glycine,A fungal disease,Maintain good hygiene,Yellowing leaves,Australia,Low,Use certified seeds
+1127,Rust,Potato,Triticum,A parasitic infection,Maintain good hygiene,Reddish pustules,Europe,Medium,Use certified seeds
+1128,Late Blight,Potato,Glycine,Caused by nematodes,Rotate crops,Leaf curling,Europe,Low,Maintain field hygiene
+1129,Leaf Spot,Corn,Triticum,A viral infection,Maintain good hygiene,Reddish pustules,Australia,Medium,Crop rotation
+1130,Rust,Corn,Solanum,A bacterial infection,Maintain good hygiene,Yellowing leaves,America,Low,Maintain field hygiene
+1131,Rust,Potato,Solanum,A bacterial infection,Use fungicides,Black spots on leaves,Australia,Medium,Avoid overhead irrigation
+1132,Leaf Spot,Wheat,Zea,A parasitic infection,Apply neem oil,Leaf curling,Asia,Medium,Maintain field hygiene
+1133,Powdery Mildew,Soybean,Solanum,A parasitic infection,Use resistant varieties,Reddish pustules,Australia,Medium,Crop rotation
+1134,Anthracnose,Tomato,Lycopersicon,A bacterial infection,Rotate crops,Reddish pustules,Australia,High,Maintain field hygiene
+1135,Powdery Mildew,Potato,Glycine,Caused by nematodes,Use resistant varieties,Leaf curling,Africa,High,Maintain field hygiene
+1136,Leaf Spot,Wheat,Triticum,A parasitic infection,Use resistant varieties,Yellowing leaves,Europe,High,Maintain field hygiene
+1137,Powdery Mildew,Wheat,Glycine,A parasitic infection,Apply neem oil,Leaf curling,Africa,Low,Use certified seeds
+1138,Rust,Wheat,Glycine,A bacterial infection,Rotate crops,Reddish pustules,Africa,Medium,Maintain field hygiene
+1139,Leaf Spot,Potato,Glycine,A bacterial infection,Use fungicides,White powder on leaves,Africa,Medium,Avoid overhead irrigation
+1140,Rust,Potato,Glycine,Caused by nematodes,Apply neem oil,Leaf curling,Asia,High,Avoid overhead irrigation
+1141,Rust,Wheat,Glycine,A bacterial infection,Maintain good hygiene,Black spots on leaves,Europe,High,Use mulch
+1142,Rust,Wheat,Solanum,A fungal disease,Maintain good hygiene,Reddish pustules,Australia,Low,Use certified seeds
+1143,Powdery Mildew,Potato,Glycine,Caused by nematodes,Use resistant varieties,Reddish pustules,Asia,Low,Crop rotation
+1144,Anthracnose,Soybean,Glycine,A viral infection,Use fungicides,White powder on leaves,Africa,High,Avoid overhead irrigation
+1145,Late Blight,Potato,Triticum,Caused by nematodes,Use resistant varieties,White powder on leaves,Asia,Low,Use certified seeds
+1146,Anthracnose,Corn,Glycine,A fungal disease,Maintain good hygiene,White powder on leaves,Asia,Low,Crop rotation
+1147,Late Blight,Wheat,Glycine,A viral infection,Rotate crops,White powder on leaves,Africa,Low,Avoid overhead irrigation
+1148,Leaf Spot,Soybean,Glycine,Caused by nematodes,Apply neem oil,Yellowing leaves,Africa,High,Crop rotation
+1149,Anthracnose,Tomato,Lycopersicon,A bacterial infection,Use fungicides,Leaf curling,Asia,High,Use certified seeds
+1150,Late Blight,Potato,Lycopersicon,A viral infection,Apply neem oil,Black spots on leaves,Asia,High,Use mulch
+1151,Rust,Wheat,Lycopersicon,A parasitic infection,Apply neem oil,Black spots on leaves,Europe,Medium,Use mulch
+1152,Leaf Spot,Potato,Glycine,A bacterial infection,Use resistant varieties,Reddish pustules,Europe,High,Use certified seeds
+1153,Anthracnose,Tomato,Solanum,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Africa,High,Use certified seeds
+1154,Powdery Mildew,Potato,Lycopersicon,A bacterial infection,Use fungicides,Reddish pustules,Africa,High,Use mulch
+1155,Leaf Spot,Soybean,Zea,A bacterial infection,Apply neem oil,Black spots on leaves,Asia,Medium,Maintain field hygiene
+1156,Rust,Tomato,Lycopersicon,A bacterial infection,Use fungicides,Leaf curling,America,Low,Maintain field hygiene
+1157,Rust,Corn,Triticum,A parasitic infection,Use fungicides,Yellowing leaves,Europe,High,Maintain field hygiene
+1158,Rust,Corn,Solanum,A bacterial infection,Maintain good hygiene,Yellowing leaves,America,High,Crop rotation
+1159,Late Blight,Wheat,Triticum,A parasitic infection,Apply neem oil,Black spots on leaves,Asia,High,Maintain field hygiene
+1160,Anthracnose,Corn,Triticum,Caused by nematodes,Use fungicides,Reddish pustules,Australia,High,Use mulch
+1161,Leaf Spot,Potato,Lycopersicon,A fungal disease,Use fungicides,Leaf curling,Australia,Medium,Maintain field hygiene
+1162,Anthracnose,Soybean,Triticum,A parasitic infection,Apply neem oil,Yellowing leaves,Australia,Low,Avoid overhead irrigation
+1163,Anthracnose,Corn,Triticum,A bacterial infection,Apply neem oil,Reddish pustules,Australia,Low,Use mulch
+1164,Late Blight,Wheat,Solanum,A parasitic infection,Apply neem oil,Yellowing leaves,Asia,Medium,Use mulch
+1165,Late Blight,Potato,Lycopersicon,A viral infection,Use resistant varieties,Reddish pustules,Europe,Medium,Maintain field hygiene
+1166,Rust,Wheat,Solanum,Caused by nematodes,Apply neem oil,White powder on leaves,Europe,Medium,Use mulch
+1167,Anthracnose,Wheat,Glycine,A bacterial infection,Maintain good hygiene,Reddish pustules,America,Medium,Avoid overhead irrigation
+1168,Late Blight,Soybean,Lycopersicon,A viral infection,Use fungicides,Black spots on leaves,Africa,Medium,Crop rotation
+1169,Rust,Soybean,Triticum,A viral infection,Use resistant varieties,Leaf curling,Australia,Medium,Use certified seeds
+1170,Leaf Spot,Wheat,Lycopersicon,A parasitic infection,Apply neem oil,Yellowing leaves,Europe,High,Use certified seeds
+1171,Late Blight,Wheat,Lycopersicon,A viral infection,Rotate crops,Reddish pustules,Asia,Medium,Avoid overhead irrigation
+1172,Late Blight,Corn,Glycine,A bacterial infection,Use resistant varieties,Black spots on leaves,Africa,High,Avoid overhead irrigation
+1173,Leaf Spot,Corn,Solanum,A viral infection,Use resistant varieties,Leaf curling,America,Low,Use certified seeds
+1174,Leaf Spot,Tomato,Lycopersicon,A viral infection,Use resistant varieties,Reddish pustules,America,Low,Use certified seeds
+1175,Late Blight,Soybean,Lycopersicon,A parasitic infection,Use resistant varieties,Reddish pustules,Europe,Low,Use mulch
+1176,Leaf Spot,Corn,Zea,A bacterial infection,Use fungicides,Yellowing leaves,Asia,High,Use certified seeds
+1177,Leaf Spot,Wheat,Lycopersicon,A fungal disease,Use fungicides,White powder on leaves,Asia,Low,Crop rotation
+1178,Rust,Corn,Solanum,Caused by nematodes,Use resistant varieties,Yellowing leaves,Europe,Medium,Use mulch
+1179,Late Blight,Tomato,Zea,A fungal disease,Rotate crops,White powder on leaves,Europe,High,Maintain field hygiene
+1180,Leaf Spot,Corn,Triticum,A fungal disease,Apply neem oil,Leaf curling,Europe,Low,Use certified seeds
+1181,Rust,Wheat,Triticum,A bacterial infection,Use resistant varieties,Yellowing leaves,Europe,Low,Avoid overhead irrigation
+1182,Late Blight,Corn,Lycopersicon,A bacterial infection,Use resistant varieties,Black spots on leaves,Asia,Medium,Crop rotation
+1183,Late Blight,Corn,Solanum,A viral infection,Apply neem oil,Black spots on leaves,Asia,Low,Use mulch
+1184,Late Blight,Soybean,Lycopersicon,Caused by nematodes,Use fungicides,Black spots on leaves,Europe,High,Crop rotation
+1185,Leaf Spot,Soybean,Triticum,A parasitic infection,Use resistant varieties,Black spots on leaves,Asia,Medium,Maintain field hygiene
+1186,Leaf Spot,Tomato,Lycopersicon,A bacterial infection,Use resistant varieties,White powder on leaves,America,Low,Use mulch
+1187,Anthracnose,Tomato,Lycopersicon,A bacterial infection,Use resistant varieties,Reddish pustules,Asia,Low,Use certified seeds
+1188,Rust,Corn,Triticum,A viral infection,Use resistant varieties,Leaf curling,Asia,Medium,Maintain field hygiene
+1189,Anthracnose,Soybean,Triticum,Caused by nematodes,Apply neem oil,Black spots on leaves,Africa,Medium,Avoid overhead irrigation
+1190,Rust,Soybean,Zea,A parasitic infection,Use fungicides,Leaf curling,Asia,Medium,Crop rotation
+1191,Powdery Mildew,Corn,Zea,Caused by nematodes,Rotate crops,Yellowing leaves,Europe,Medium,Crop rotation
+1192,Anthracnose,Soybean,Solanum,Caused by nematodes,Apply neem oil,White powder on leaves,Europe,Medium,Crop rotation
+1193,Late Blight,Potato,Solanum,A viral infection,Rotate crops,White powder on leaves,Europe,Low,Use mulch
+1194,Powdery Mildew,Wheat,Triticum,A fungal disease,Rotate crops,White powder on leaves,Australia,High,Crop rotation
+1195,Powdery Mildew,Potato,Solanum,A bacterial infection,Apply neem oil,Reddish pustules,Asia,Medium,Crop rotation
+1196,Powdery Mildew,Potato,Solanum,A fungal disease,Use fungicides,Reddish pustules,Africa,High,Use certified seeds
+1197,Rust,Potato,Zea,A fungal disease,Use fungicides,White powder on leaves,Europe,Low,Use certified seeds
+1198,Leaf Spot,Soybean,Triticum,A fungal disease,Use fungicides,Reddish pustules,Europe,High,Use certified seeds
+1199,Leaf Spot,Corn,Zea,A viral infection,Apply neem oil,Leaf curling,Australia,High,Use certified seeds
+1200,Powdery Mildew,Tomato,Lycopersicon,A parasitic infection,Apply neem oil,Leaf curling,America,High,Use certified seeds
+1201,Leaf Spot,Wheat,Triticum,Caused by nematodes,Maintain good hygiene,Leaf curling,Australia,Low,Maintain field hygiene
+1202,Late Blight,Wheat,Glycine,A fungal disease,Apply neem oil,Leaf curling,Europe,Medium,Maintain field hygiene
+1203,Leaf Spot,Potato,Solanum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Europe,Medium,Crop rotation
+1204,Rust,Tomato,Solanum,A viral infection,Rotate crops,Yellowing leaves,Asia,Medium,Use certified seeds
+1205,Powdery Mildew,Corn,Triticum,A parasitic infection,Apply neem oil,White powder on leaves,America,High,Crop rotation
+1206,Anthracnose,Tomato,Glycine,A viral infection,Maintain good hygiene,Black spots on leaves,Europe,Low,Maintain field hygiene
+1207,Late Blight,Tomato,Triticum,Caused by nematodes,Use fungicides,Reddish pustules,Africa,Low,Crop rotation
+1208,Anthracnose,Wheat,Solanum,A bacterial infection,Rotate crops,Reddish pustules,Europe,Low,Avoid overhead irrigation
+1209,Powdery Mildew,Soybean,Solanum,A bacterial infection,Apply neem oil,White powder on leaves,Australia,Low,Use mulch
+1210,Powdery Mildew,Potato,Triticum,Caused by nematodes,Use resistant varieties,Reddish pustules,Australia,High,Maintain field hygiene
+1211,Anthracnose,Soybean,Lycopersicon,A viral infection,Rotate crops,Leaf curling,Asia,High,Maintain field hygiene
+1212,Powdery Mildew,Wheat,Zea,A bacterial infection,Rotate crops,Reddish pustules,Europe,Medium,Avoid overhead irrigation
+1213,Powdery Mildew,Tomato,Triticum,A fungal disease,Maintain good hygiene,White powder on leaves,Europe,Low,Use mulch
+1214,Powdery Mildew,Potato,Lycopersicon,A viral infection,Apply neem oil,Reddish pustules,Asia,Low,Use certified seeds
+1215,Leaf Spot,Corn,Glycine,A bacterial infection,Maintain good hygiene,White powder on leaves,Europe,High,Use mulch
+1216,Leaf Spot,Corn,Solanum,A bacterial infection,Rotate crops,Reddish pustules,America,Medium,Avoid overhead irrigation
+1217,Rust,Tomato,Solanum,A fungal disease,Use fungicides,Leaf curling,Asia,Medium,Use mulch
+1218,Anthracnose,Soybean,Triticum,Caused by nematodes,Apply neem oil,Black spots on leaves,Asia,Medium,Avoid overhead irrigation
+1219,Late Blight,Soybean,Glycine,A bacterial infection,Apply neem oil,Yellowing leaves,America,Medium,Avoid overhead irrigation
+1220,Anthracnose,Potato,Triticum,A fungal disease,Apply neem oil,Yellowing leaves,Africa,Medium,Use certified seeds
+1221,Anthracnose,Wheat,Zea,A parasitic infection,Use fungicides,Leaf curling,Europe,Medium,Use certified seeds
+1222,Rust,Soybean,Triticum,Caused by nematodes,Rotate crops,Reddish pustules,Europe,High,Use mulch
+1223,Leaf Spot,Corn,Solanum,A viral infection,Use resistant varieties,White powder on leaves,Africa,High,Use certified seeds
+1224,Late Blight,Corn,Solanum,Caused by nematodes,Rotate crops,Reddish pustules,Australia,Low,Maintain field hygiene
+1225,Late Blight,Corn,Lycopersicon,A bacterial infection,Use fungicides,Leaf curling,Asia,High,Use mulch
+1226,Rust,Soybean,Zea,A bacterial infection,Maintain good hygiene,White powder on leaves,Asia,Low,Crop rotation
+1227,Powdery Mildew,Tomato,Lycopersicon,A fungal disease,Maintain good hygiene,Black spots on leaves,Australia,Medium,Use mulch
+1228,Anthracnose,Soybean,Zea,A bacterial infection,Use resistant varieties,White powder on leaves,America,High,Maintain field hygiene
+1229,Anthracnose,Soybean,Solanum,Caused by nematodes,Maintain good hygiene,Yellowing leaves,Australia,Medium,Crop rotation
+1230,Late Blight,Potato,Triticum,A fungal disease,Use fungicides,Reddish pustules,America,High,Use mulch
+1231,Anthracnose,Wheat,Solanum,A parasitic infection,Use resistant varieties,Black spots on leaves,Asia,High,Avoid overhead irrigation
+1232,Late Blight,Soybean,Lycopersicon,A parasitic infection,Use fungicides,Black spots on leaves,Europe,Low,Avoid overhead irrigation
+1233,Leaf Spot,Soybean,Lycopersicon,A parasitic infection,Apply neem oil,White powder on leaves,America,High,Crop rotation
+1234,Leaf Spot,Wheat,Triticum,A fungal disease,Maintain good hygiene,Yellowing leaves,Asia,Medium,Crop rotation
+1235,Late Blight,Corn,Glycine,Caused by nematodes,Apply neem oil,Yellowing leaves,Asia,High,Use certified seeds
+1236,Rust,Wheat,Solanum,A fungal disease,Rotate crops,Yellowing leaves,America,Medium,Use mulch
+1237,Anthracnose,Soybean,Lycopersicon,A viral infection,Apply neem oil,Black spots on leaves,Africa,Low,Maintain field hygiene
+1238,Late Blight,Tomato,Glycine,A fungal disease,Maintain good hygiene,White powder on leaves,America,High,Crop rotation
+1239,Rust,Potato,Glycine,A bacterial infection,Rotate crops,Black spots on leaves,Asia,High,Crop rotation
+1240,Leaf Spot,Potato,Solanum,A parasitic infection,Maintain good hygiene,Yellowing leaves,Europe,High,Use certified seeds
+1241,Anthracnose,Wheat,Lycopersicon,A fungal disease,Maintain good hygiene,Yellowing leaves,Australia,High,Use mulch
+1242,Anthracnose,Wheat,Glycine,A viral infection,Maintain good hygiene,White powder on leaves,Africa,Low,Use certified seeds
+1243,Leaf Spot,Corn,Lycopersicon,A bacterial infection,Use fungicides,Yellowing leaves,Asia,High,Crop rotation
+1244,Powdery Mildew,Potato,Glycine,Caused by nematodes,Maintain good hygiene,Black spots on leaves,Europe,High,Avoid overhead irrigation
+1245,Late Blight,Wheat,Solanum,A fungal disease,Rotate crops,White powder on leaves,Africa,Medium,Crop rotation
+1246,Rust,Soybean,Solanum,A parasitic infection,Rotate crops,Black spots on leaves,Europe,Low,Use certified seeds
+1247,Rust,Soybean,Lycopersicon,A bacterial infection,Use resistant varieties,Leaf curling,Asia,High,Maintain field hygiene
+1248,Powdery Mildew,Tomato,Solanum,A fungal disease,Maintain good hygiene,Leaf curling,Europe,High,Use mulch
+1249,Rust,Tomato,Zea,A bacterial infection,Use fungicides,Black spots on leaves,Asia,Low,Use certified seeds
+1250,Rust,Wheat,Solanum,A bacterial infection,Maintain good hygiene,Reddish pustules,Europe,High,Maintain field hygiene
+1251,Anthracnose,Corn,Triticum,A bacterial infection,Rotate crops,Yellowing leaves,Europe,Low,Avoid overhead irrigation
+1252,Late Blight,Corn,Solanum,A viral infection,Apply neem oil,Leaf curling,Africa,Medium,Maintain field hygiene
+1253,Anthracnose,Corn,Lycopersicon,A fungal disease,Maintain good hygiene,Black spots on leaves,Australia,Low,Maintain field hygiene
+1254,Leaf Spot,Corn,Glycine,A bacterial infection,Use fungicides,White powder on leaves,Africa,Low,Use mulch
+1255,Anthracnose,Potato,Zea,A fungal disease,Rotate crops,Black spots on leaves,America,High,Use mulch
+1256,Powdery Mildew,Corn,Lycopersicon,A bacterial infection,Maintain good hygiene,Leaf curling,America,Low,Maintain field hygiene
+1257,Late Blight,Tomato,Lycopersicon,A parasitic infection,Use resistant varieties,Yellowing leaves,Asia,Medium,Use certified seeds
+1258,Powdery Mildew,Tomato,Glycine,A fungal disease,Apply neem oil,Black spots on leaves,Europe,Low,Crop rotation
+1259,Late Blight,Potato,Glycine,A fungal disease,Rotate crops,Leaf curling,Africa,Medium,Crop rotation
+1260,Late Blight,Wheat,Triticum,A parasitic infection,Use resistant varieties,Black spots on leaves,Europe,High,Use certified seeds
+1261,Late Blight,Soybean,Lycopersicon,A fungal disease,Rotate crops,Black spots on leaves,Australia,Medium,Avoid overhead irrigation
+1262,Rust,Tomato,Zea,A bacterial infection,Apply neem oil,Leaf curling,Europe,Low,Use certified seeds
+1263,Anthracnose,Tomato,Triticum,A viral infection,Use resistant varieties,Reddish pustules,Asia,Low,Crop rotation
+1264,Rust,Potato,Triticum,A fungal disease,Use resistant varieties,White powder on leaves,Africa,Medium,Use mulch
+1265,Rust,Tomato,Zea,A parasitic infection,Apply neem oil,White powder on leaves,America,Medium,Use mulch
+1266,Anthracnose,Soybean,Glycine,A viral infection,Apply neem oil,White powder on leaves,Australia,Low,Use mulch
+1267,Powdery Mildew,Potato,Glycine,A fungal disease,Apply neem oil,Leaf curling,Europe,Low,Use mulch
+1268,Late Blight,Corn,Lycopersicon,A bacterial infection,Rotate crops,Reddish pustules,Australia,Low,Use mulch
+1269,Powdery Mildew,Corn,Triticum,Caused by nematodes,Rotate crops,Yellowing leaves,Australia,Low,Maintain field hygiene
+1270,Powdery Mildew,Corn,Zea,Caused by nematodes,Use fungicides,Yellowing leaves,Australia,Medium,Avoid overhead irrigation
+1271,Leaf Spot,Soybean,Zea,A viral infection,Use resistant varieties,Yellowing leaves,Australia,Low,Use mulch
+1272,Rust,Wheat,Zea,A parasitic infection,Use resistant varieties,Reddish pustules,Africa,Medium,Avoid overhead irrigation
+1273,Late Blight,Tomato,Triticum,A fungal disease,Maintain good hygiene,Yellowing leaves,Australia,High,Avoid overhead irrigation
+1274,Anthracnose,Soybean,Solanum,Caused by nematodes,Use resistant varieties,Leaf curling,Australia,Low,Maintain field hygiene
+1275,Powdery Mildew,Wheat,Solanum,Caused by nematodes,Use fungicides,Black spots on leaves,Africa,Medium,Avoid overhead irrigation
+1276,Leaf Spot,Potato,Lycopersicon,A fungal disease,Use fungicides,Yellowing leaves,Asia,Low,Use certified seeds
+1277,Leaf Spot,Soybean,Triticum,A fungal disease,Apply neem oil,Black spots on leaves,America,Low,Crop rotation
+1278,Powdery Mildew,Potato,Triticum,A parasitic infection,Use resistant varieties,Reddish pustules,America,Low,Use mulch
+1279,Powdery Mildew,Wheat,Solanum,A fungal disease,Use fungicides,White powder on leaves,Australia,Low,Use mulch
+1280,Leaf Spot,Soybean,Glycine,Caused by nematodes,Apply neem oil,Black spots on leaves,Australia,Medium,Use mulch
+1281,Rust,Tomato,Solanum,A fungal disease,Use fungicides,Black spots on leaves,America,High,Maintain field hygiene
+1282,Leaf Spot,Wheat,Triticum,A bacterial infection,Use resistant varieties,Yellowing leaves,Europe,Medium,Crop rotation
+1283,Leaf Spot,Tomato,Zea,Caused by nematodes,Use resistant varieties,Black spots on leaves,Europe,Medium,Use mulch
+1284,Leaf Spot,Potato,Triticum,A viral infection,Apply neem oil,Yellowing leaves,Australia,Low,Crop rotation
+1285,Rust,Tomato,Lycopersicon,A parasitic infection,Use resistant varieties,White powder on leaves,America,Low,Use certified seeds
+1286,Rust,Soybean,Solanum,Caused by nematodes,Apply neem oil,Black spots on leaves,Europe,High,Use certified seeds
+1287,Rust,Soybean,Lycopersicon,A fungal disease,Use resistant varieties,White powder on leaves,Europe,High,Use mulch
+1288,Anthracnose,Corn,Solanum,A parasitic infection,Maintain good hygiene,White powder on leaves,America,Medium,Use mulch
+1289,Anthracnose,Tomato,Solanum,A parasitic infection,Apply neem oil,Yellowing leaves,Europe,High,Use certified seeds
+1290,Anthracnose,Corn,Lycopersicon,A viral infection,Maintain good hygiene,White powder on leaves,America,High,Use certified seeds
+1291,Anthracnose,Wheat,Lycopersicon,A bacterial infection,Use resistant varieties,Black spots on leaves,Africa,Medium,Crop rotation
+1292,Late Blight,Potato,Zea,A bacterial infection,Rotate crops,Black spots on leaves,Australia,Medium,Use certified seeds
+1293,Late Blight,Wheat,Lycopersicon,A fungal disease,Use resistant varieties,Yellowing leaves,America,Medium,Use mulch
+1294,Late Blight,Potato,Glycine,A bacterial infection,Rotate crops,White powder on leaves,Asia,High,Use certified seeds
+1295,Powdery Mildew,Tomato,Triticum,A parasitic infection,Use resistant varieties,White powder on leaves,America,Low,Crop rotation
+1296,Late Blight,Soybean,Zea,A fungal disease,Apply neem oil,White powder on leaves,Africa,Low,Avoid overhead irrigation
+1297,Powdery Mildew,Tomato,Solanum,A bacterial infection,Use fungicides,White powder on leaves,Asia,High,Avoid overhead irrigation
+1298,Leaf Spot,Potato,Glycine,A fungal disease,Apply neem oil,Leaf curling,Europe,Medium,Crop rotation
+1299,Late Blight,Corn,Lycopersicon,A parasitic infection,Rotate crops,Yellowing leaves,Asia,Low,Crop rotation
+1300,Rust,Potato,Lycopersicon,A parasitic infection,Use resistant varieties,Reddish pustules,Asia,High,Use mulch
